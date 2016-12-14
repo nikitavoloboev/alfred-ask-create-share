@@ -5,7 +5,7 @@
 ###a simple list filter for various online web submissions including
 
 - asking questions on stack overflow 
-- creating threads on reddit on various subreddits
+- creating threads on various subreddits on reddit
 - asking questions on certain forums
 - creating github repo / gist
 - and any other web submission I personally use
