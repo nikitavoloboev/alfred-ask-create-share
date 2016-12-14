@@ -1,4 +1,8 @@
-##a simple list filter for various online web submissions including
+#Download :
+- [link](https://github.com/nikitavoloboev/ask-create-share/releases/download/1.0.0/ask.create.share.alfredworkflow)
+
+#Description : 
+###a simple list filter for various online web submissions including
 
 - asking questions on stack overflow 
 - creating threads on reddit on various subreddits
@@ -6,7 +10,6 @@
 - creating github repo / gist
 - and any other web submission I personally use
 
-- ###[download workflow](https://github.com/nikitavoloboev/ask-create-share/releases/download/1.0.0/ask.create.share.alfredworkflow)
 
 It all goes into one list filter and from there on you can filter with a set of prefixes. More specifically : 
 
