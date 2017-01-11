@@ -1,7 +1,6 @@
-#Download :
-- [link](https://github.com/nikitavoloboev/ask-create-share/releases/download/1.0.0/ask.create.share.alfredworkflow)
+#[download](https://github.com/nikitavoloboev/ask-create-share-alfred/releases/download/2/a.ask.create.share.alfredworkflow)
 
-#Description : 
+#description
 ###a simple list filter for various online web submissions including
 
 - asking questions on stack overflow 
@@ -18,5 +17,6 @@ It all goes into one list filter and from there on you can filter with a set of 
 - **f:** prefix will filter for asking questions on various forums like [Alfred Forum](http://www.alfredforum.com/)
 - **g:** prefix will currently allow you to quickly create new repository or new gist
 - **w:** prefix is for all *other websites* like creating new hacker news thread or new codepen
+
 
 Enjoy!
