@@ -17,6 +17,6 @@ It all goes into one list filter and from there on you can filter with a set of 
 - **f:** prefix will filter for asking questions on various forums like [Alfred Forum](http://www.alfredforum.com/)
 - **g:** prefix will currently allow you to quickly create new repository or new gist
 - **w:** prefix is for all *other websites* like creating new hacker news thread or new codepen
-
+- **d:** prefix is used to create google docs, sheets, slide or form
 
 Enjoy!
