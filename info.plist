@@ -430,6 +430,16 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
+				<string>8388CE3A-3883-4500-A004-936D9074DB96</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>0F0D0397-DF73-45BE-AC1F-F15A43BA4352</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -1130,6 +1140,16 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
+				<string>89537ACE-9021-4309-8D51-265BF7240B16</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>6E3CAB05-6CEC-414E-B6F9-B2901A949E12</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -1491,6 +1511,36 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>8901527C-6FEF-437A-ADD0-8071839DD408</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5F0DFEB3-6633-4BB7-9CA3-388BA3603123</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2020817B-86D4-4FDA-80DA-EE05DBC3B6A9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>BDF1A00A-9CDA-4C32-BAC9-E6E6506D9079</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -2010,26 +2060,6 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>8388CE3A-3883-4500-A004-936D9074DB96</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>2020817B-86D4-4FDA-80DA-EE05DBC3B6A9</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
 				<string>6F04C51C-AF4C-4A8D-A685-5D80E0487327</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -2071,46 +2101,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>4B7CF9E7-FECB-4D49-865D-23B558FD2266</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>700E477B-7835-4D7B-802E-9127FBA43E61</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>CEE648C0-878C-442C-A072-83CF61EB50AC</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>1829CB43-356B-4192-AC72-C08FAA9CCE62</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>C06A6D44-EE95-4BA1-8F1D-A4EB14F50186</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -2181,6 +2171,46 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>86BF28E7-6656-4027-BBBD-34A2440E722C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>700E477B-7835-4D7B-802E-9127FBA43E61</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>CEE648C0-878C-442C-A072-83CF61EB50AC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1829CB43-356B-4192-AC72-C08FAA9CCE62</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>C06A6D44-EE95-4BA1-8F1D-A4EB14F50186</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -2657,6 +2687,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>5F0DFEB3-6633-4BB7-9CA3-388BA3603123</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9BC5FE92-1817-4CD1-AA94-AFBAFB6F8A50</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>60B275F8-0935-4629-8E9C-37C8661CDC95</key>
 		<array>
 			<dict>
@@ -2675,19 +2718,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>12BBEFBD-854E-4823-AB0E-F330B65477C5</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>62C647F8-487D-4574-870C-F9CBF931B920</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>81D7CD86-79D4-4413-936F-6BD702D41D8C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -3190,6 +3220,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>89537ACE-9021-4309-8D51-265BF7240B16</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1C5FA3DF-0BA1-463C-9F55-3633C43AF1DB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>899EFF25-2D25-4564-82B7-EE17100BDA2A</key>
 		<array>
 			<dict>
@@ -3658,6 +3701,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>BDF1A00A-9CDA-4C32-BAC9-E6E6506D9079</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AAEAAD03-2DC0-4BC8-A028-309A94D35F24</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>BE685303-B66D-4CA5-8AE5-DE6FFE7E6AD4</key>
 		<array>
 			<dict>
@@ -3780,19 +3836,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>4C1DE107-7D80-42FB-BA6B-9B9A327E0493</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>CA63A5A4-A0A8-4CF2-9049-A948EEF8060C</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>E601EEDB-88D5-4C56-95D7-B1312063D096</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -3949,19 +3992,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>9EE8BE1B-18F6-49DD-8176-CA7A0D516C3F</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>DA7B0914-3CD5-4755-A967-587BC4074116</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>3827B163-ECD3-44C1-BF04-75E155BA6947</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -5000,6 +5030,25 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>BC3F666B-9D55-400C-92EB-907ADBDFCF3B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>r: neural networks</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>8388CE3A-3883-4500-A004-936D9074DB96</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -7248,6 +7297,25 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://computergraphics.stackexchange.com/questions/ask</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>9BC5FE92-1817-4CD1-AA94-AFBAFB6F8A50</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>inputstring</key>
 				<string>{query}</string>
 				<key>matchcasesensitive</key>
@@ -7641,6 +7709,25 @@
 			<string>alfred.workflow.utility.filter</string>
 			<key>uid</key>
 			<string>3F27C27E-A990-4B88-9A05-CBDC320EC973</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>r: privacy</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>89537ACE-9021-4309-8D51-265BF7240B16</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -8889,6 +8976,25 @@
 				<key>matchmode</key>
 				<integer>0</integer>
 				<key>matchstring</key>
+				<string>s: computer graphics</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>5F0DFEB3-6633-4BB7-9CA3-388BA3603123</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
 				<string>s: super user</string>
 			</dict>
 			<key>type</key>
@@ -9400,6 +9506,25 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
+				<string>https://www.reddit.com/r/privacy/submit</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>1C5FA3DF-0BA1-463C-9F55-3633C43AF1DB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
 				<string>https://www.reddit.com/r/MacOS/submit</string>
 				<key>utf8</key>
 				<true/>
@@ -9552,6 +9677,25 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
+				<string>https://www.reddit.com/r/swift/submit</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>AAEAAD03-2DC0-4BC8-A028-309A94D35F24</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
 				<string>https://www.reddit.com/r/gamedev/submit</string>
 				<key>utf8</key>
 				<true/>
@@ -9674,6 +9818,44 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>D7573FCA-BC98-42C5-8111-A904E00D2089</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>r: swift</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>BDF1A00A-9CDA-4C32-BAC9-E6E6506D9079</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>r: vegan</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>2020817B-86D4-4FDA-80DA-EE05DBC3B6A9</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -10706,44 +10888,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>r: neural networks</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>8388CE3A-3883-4500-A004-936D9074DB96</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>r: vegan</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>2020817B-86D4-4FDA-80DA-EE05DBC3B6A9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>triggerid</key>
 				<string>askCreateShare</string>
 			</dict>
@@ -10762,7 +10906,7 @@
 				<key>fixedorder</key>
 				<false/>
 				<key>items</key>
-				<string>[{"title":"s: stack","arg":"s: stack"},{"title":"s: unix","arg":"s: unix"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: askreddit","arg":"r: askreddit"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: osx","arg":"r: osx"},{"title":"s: academia","arg":"s: academia"},{"title":"s: android enthusiasts","arg":"s: android enthusiasts"},{"title":"s: ask different","arg":"s: ask different"},{"title":"s: anime &amp; manga","arg":"s: anime &amp; manga"},{"title":"s: arduino","arg":"s: arduino"},{"title":"s: aviation","arg":"s: aviation"},{"title":"s: astronomy","arg":"s: astronomy"},{"imagefile":"ee44e8fb2eabe0363f1d92bc612d63facd0b9c2c.png","title":"w: hacker news","arg":"w: hacker news"},{"title":"s: ask ubuntu","arg":"s: ask ubuntu"},{"title":"s: beer, wine &amp; spirits","arg":"s: beer, wine &amp; spirits"},{"title":"s: bicycles","arg":"s: bicycles"},{"title":"s: biology","arg":"s: biology"},{"title":"s: bitcoin","arg":"s: bitcoin"},{"title":"s: blender","arg":"s: blender"},{"title":"s: board &amp; card games","arg":"s: board &amp; card games"},{"title":"s: lego answers","arg":"s: lego answers"},{"title":"s: buddhism","arg":"s: buddhism"},{"title":"s: chemistry","arg":"s: chemistry"},{"title":"s: chess","arg":"s: chess"},{"title":"s: programming puzzles &amp; code golf","arg":"s: programming puzzles &amp; code golf"},{"title":"s: chinese language","arg":"s: chinese language"},{"title":"s: code review","arg":"s: code review"},{"title":"s: cognitive sciences","arg":"s: cognitive sciences"},{"title":"s: seasoned advice","arg":"s: seasoned advice"},{"title":"s: database administrators","arg":"s: database administrators"},{"title":"s: electrical engineering","arg":"s: electrical engineering"},{"title":"s: ebooks","arg":"s: ebooks"},{"title":"s: signal processing","arg":"s: signal processing"},{"title":"s: drupal answers","arg":"s: drupal answers"},{"title":"s: home improvement","arg":"s: home improvement"},{"title":"s: english language learners","arg":"s: english language learners"},{"title":"s: writers","arg":"s: writers"},{"title":"s: workplace","arg":"s: workplace"},{"title":"s: wordpress development","arg":"s: wordpress development"},{"title":"s: windows phone","arg":"s: windows phone"},{"title":"s: pro webmasters","arg":"s: pro webmasters"},{"title":"s: web applications","arg":"s: web applications"},{"title":"s: video production","arg":"s: video production"},{"title":"s: robotics","arg":"s: robotics"},{"title":"s: travel","arg":"s: travel"},{"title":"s: tor","arg":"s: tor"},{"title":"s: tex","arg":"s: tex"},{"title":"s: sustainable living","arg":"s: sustainable living"},{"title":"s: theoretical computer science","arg":"s: theoretical computer science"},{"title":"s: cryptography","arg":"s: cryptography","subtitle":""},{"title":"s: cross validated","arg":"s: cross validated"},{"title":"s: stack apps","arg":"s: stack apps"},{"title":"s: software quality assurance &amp; testing","arg":"s: software quality assurance &amp; testing"},{"title":"s: sports","arg":"s: sports"},{"title":"s: spanish language","arg":"s: spanish language"},{"title":"s: space exploration","arg":"s: space exploration"},{"title":"s: sound design","arg":"s: sound design"},{"title":"s: software recommendations","arg":"s: software recommendations"},{"title":"s: skeptics","arg":"s: skeptics"},{"title":"s: sharepoint","arg":"s: sharepoint"},{"title":"s: information security","arg":"s: information security"},{"title":"s: science fiction &amp; fantasy","arg":"s: science fiction &amp; fantasy"},{"title":"s: computational science","arg":"s: computational science"},{"title":"s: salesforce","arg":"s: salesforce"},{"title":"s: russian language","arg":"s: russian language"},{"title":"s: role playing games","arg":"s: role playing games"},{"title":"s: reverse engineering","arg":"s: reverse engineering"},{"title":"s: quantitative finance","arg":"s: quantitative finance"},{"title":"s: politics","arg":"s: politics"},{"title":"s: poker","arg":"s: poker"},{"title":"s: project management","arg":"s: project management"},{"title":"s: photography","arg":"s: photography"},{"title":"s: philosophy","arg":"s: philosophy"},{"title":"s: pets","arg":"s: pets"},{"title":"s: ask patents","arg":"s: ask patents"},{"title":"s: parenting","arg":"s: parenting"},{"title":"s: great outdoors","arg":"s: great outdoors"},{"title":"s: open data","arg":"s: open data"},{"title":"s: network engineering","arg":"s: network engineering"},{"title":"s: music","arg":"s: music"},{"title":"s: movies &amp; tv","arg":"s: movies &amp; tv"},{"title":"s: personal finance &amp; money","arg":"s: personal finance &amp; money"},{"title":"s: meta","arg":"s: meta"},{"title":"s: motor vehicle maintenance &amp; repair","arg":"s: motor vehicle maintenance &amp; repair"},{"title":"s: math overflow","arg":"s: math overflow"},{"title":"s: mathematics educators","arg":"s: mathematics educators"},{"title":"s: martial arts","arg":"s: martial arts"},{"title":"s: magento","arg":"s: magento"},{"title":"s: linguistics","arg":"s: linguistics"},{"title":"s: japanese language","arg":"s: japanese language"},{"title":"s: italian language","arg":"s: italian language"},{"title":"s: islam","arg":"s: islam"},{"title":"s: homebrewing","arg":"s: homebrewing"},{"title":"s: history","arg":"s: history"},{"title":"s: biblical hermeneutics","arg":"s: biblical hermeneutics"},{"title":"s: amateur radio","arg":"s: amateur radio","subtitle":""},{"title":"s: graphic design","arg":"s: graphic design"},{"title":"s: geographic information systems","arg":"s: geographic information systems"},{"title":"s: german language","arg":"s: german language","subtitle":""},{"title":"s: genealogy &amp; family history","arg":"s: genealogy &amp; family history"},{"title":"s: gardening &amp; landscaping","arg":"s: gardening &amp; landscaping"},{"title":"s: gaming","arg":"s: gaming"},{"title":"s: french language","arg":"s: french language"},{"title":"s: freelancing","arg":"s: freelancing"},{"title":"s: physical fitness","arg":"s: physical fitness"},{"title":"s: expression engine","arg":"s: expression engine"},{"title":"s: expatriates","arg":"s: expatriates"},{"title":"s: english language &amp; usage","arg":"s: english language &amp; usage"},{"title":"s: computer science","arg":"s: computer science"},{"title":"s: data science","arg":"s: data science"},{"title":"s: gamedev","arg":"s: gamedev"},{"title":"s: mathematics","arg":"s: mathematics"},{"title":"s: mathematica","arg":"s: mathematica"},{"title":"s: physics","arg":"s: physics"},{"title":"s: personal productivity","arg":"s: personal productivity"},{"title":"s: raspberry pie","arg":"s: raspberry pie"},{"title":"s: server fault","arg":"s: server fault"},{"title":"s: software engineering","arg":"s: software engineering"},{"title":"s: super user","arg":"s: super user"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: apple","arg":"r: apple"},{"imagefile":"5ead18126f423088ba03e0b9d778cbe0efafbac9.png","title":"g: new github repo","arg":"g: new repo"},{"imagefile":"5ead18126f423088ba03e0b9d778cbe0efafbac9.png","title":"g: new gist","arg":"g: new gist"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: psychonaut","arg":"r: psychonaut"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: rational psychonaut","arg":"r: rational psychonaut"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: ios programming","arg":"r: ios programming"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: mac apps","arg":"r: mac apps"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: macos","arg":"r: macos"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: android","arg":"r: android"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: linux","arg":"r: linux"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: docker","arg":"r: docker"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: listen to this","arg":"r: listen to this"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: future pop music","arg":"r: future pop music"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: experimental music","arg":"r: experimental music"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: future beats","arg":"r: future beats"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: physics","arg":"r: physics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: math","arg":"r: math"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: ece","arg":"r: ece"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: probability theory","arg":"r: probability theory"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: math pics","arg":"r: math pics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: get disciplined","arg":"r: get disciplined"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: meditation","arg":"r: meditation"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: nootropics","arg":"r: nootropics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: health","arg":"r: health"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: webdev","arg":"r: webdev"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: web design","arg":"r: web design"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: node","arg":"r: node"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: learn javascript","arg":"r: learn javascript"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: frontend","arg":"r: frontend"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: react js","arg":"r: react js"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: rails","arg":"r: rails"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: learn programming","arg":"r: learn programming"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: programming","arg":"r: programming"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: sysadmin","arg":"r: sysadmin"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: netsec","arg":"r: netsec"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: gamedev","arg":"r: gamedev"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: python","arg":"r: python"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: reverse engineering","arg":"r: reverse engineering"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: vim","arg":"r: vim"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: golang","arg":"r: golang"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: programmer til","arg":"r: programmer til"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: vim magic","arg":"r: vim magic"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: machine learning","arg":"r: machine learning"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: statistics","arg":"r: statistics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: neural networks","arg":"r: neural networks"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: learn machine learning","arg":"r: learn machine learning"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: ml questions","arg":"r: ml questions"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: lsd","arg":"r: lsd"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: computer vision","arg":"r: computer vision"},{"imagefile":"106b0be725eb6bb7b41fb0c47963770aaa5c3856.png","title":"w: new codepen","arg":"w: new codepen"},{"imagefile":"ee7da4194868afb28d53647dcdd1f23eaf31748b.png","title":"w: telegraph","arg":"w: telegraph"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred help","arg":"f: alfred discussion"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred share workflow","arg":"f: alfred share workflow"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred workflow help","arg":"f: alfred workflow help"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred bug report","arg":"f: alfred bug report"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred feature suggestion","arg":"f: alfred feature suggestion"},{"imagefile":"7bdf42b5a799f0f175ee53ec5bf9a746ef23eee3.png","title":"w: goodreads new quote","arg":"w: goodreads new quote","subtitle":""},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: haskell","arg":"r: haskell"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: vegan","arg":"r: vegan"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: alfred","arg":"r: alfred"},{"imagefile":"345c528c5220f3bf16a6a30b7461dc400a9a4ccc.png","title":"w: product hunt","arg":"w: product hunt"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: cool github project","arg":"r: cool github project"},{"imagefile":"f376a7628e27df0848cbd4be3d3efb733c69c33d.png","title":"d: new google doc","arg":"d: new google doc"},{"imagefile":"b0d9ef0f74db0b8bbb5c610eb69a04b789d3a626.png","title":"d: new google sheet","arg":"d: new google sheet"},{"imagefile":"41bc7a9d77aaedeb020872148ffb8ee367f71076.png","title":"d: new google slide","arg":"d: new google slide"},{"imagefile":"eec60b31f04b4101f8558535a2bad5ed6a600096.png","title":"d: new google form","arg":"d: new google form"}]</string>
+				<string>[{"title":"s: stack","arg":"s: stack"},{"title":"s: unix","arg":"s: unix"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: askreddit","arg":"r: askreddit"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: osx","arg":"r: osx"},{"title":"s: academia","arg":"s: academia"},{"title":"s: android enthusiasts","arg":"s: android enthusiasts"},{"title":"s: ask different","arg":"s: ask different"},{"title":"s: anime &amp; manga","arg":"s: anime &amp; manga"},{"title":"s: arduino","arg":"s: arduino"},{"title":"s: aviation","arg":"s: aviation"},{"title":"s: astronomy","arg":"s: astronomy"},{"imagefile":"ee44e8fb2eabe0363f1d92bc612d63facd0b9c2c.png","title":"w: hacker news","arg":"w: hacker news"},{"title":"s: ask ubuntu","arg":"s: ask ubuntu"},{"title":"s: beer, wine &amp; spirits","arg":"s: beer, wine &amp; spirits"},{"title":"s: bicycles","arg":"s: bicycles"},{"title":"s: biology","arg":"s: biology"},{"title":"s: bitcoin","arg":"s: bitcoin"},{"title":"s: blender","arg":"s: blender"},{"title":"s: board &amp; card games","arg":"s: board &amp; card games"},{"title":"s: lego answers","arg":"s: lego answers"},{"title":"s: buddhism","arg":"s: buddhism"},{"title":"s: chemistry","arg":"s: chemistry"},{"title":"s: chess","arg":"s: chess"},{"title":"s: programming puzzles &amp; code golf","arg":"s: programming puzzles &amp; code golf"},{"title":"s: chinese language","arg":"s: chinese language"},{"title":"s: code review","arg":"s: code review"},{"title":"s: cognitive sciences","arg":"s: cognitive sciences"},{"title":"s: seasoned advice","arg":"s: seasoned advice"},{"title":"s: database administrators","arg":"s: database administrators"},{"title":"s: electrical engineering","arg":"s: electrical engineering"},{"title":"s: ebooks","arg":"s: ebooks"},{"title":"s: signal processing","arg":"s: signal processing"},{"title":"s: drupal answers","arg":"s: drupal answers"},{"title":"s: home improvement","arg":"s: home improvement"},{"title":"s: english language learners","arg":"s: english language learners"},{"title":"s: writers","arg":"s: writers"},{"title":"s: workplace","arg":"s: workplace"},{"title":"s: wordpress development","arg":"s: wordpress development"},{"title":"s: windows phone","arg":"s: windows phone"},{"title":"s: pro webmasters","arg":"s: pro webmasters"},{"title":"s: web applications","arg":"s: web applications"},{"title":"s: video production","arg":"s: video production"},{"title":"s: robotics","arg":"s: robotics"},{"title":"s: travel","arg":"s: travel"},{"title":"s: tor","arg":"s: tor"},{"title":"s: tex","arg":"s: tex"},{"title":"s: sustainable living","arg":"s: sustainable living"},{"title":"s: theoretical computer science","arg":"s: theoretical computer science"},{"title":"s: cryptography","arg":"s: cryptography","subtitle":""},{"title":"s: cross validated","arg":"s: cross validated"},{"title":"s: stack apps","arg":"s: stack apps"},{"title":"s: software quality assurance &amp; testing","arg":"s: software quality assurance &amp; testing"},{"title":"s: sports","arg":"s: sports"},{"title":"s: spanish language","arg":"s: spanish language"},{"title":"s: space exploration","arg":"s: space exploration"},{"title":"s: sound design","arg":"s: sound design"},{"title":"s: software recommendations","arg":"s: software recommendations"},{"title":"s: skeptics","arg":"s: skeptics"},{"title":"s: sharepoint","arg":"s: sharepoint"},{"title":"s: information security","arg":"s: information security"},{"title":"s: science fiction &amp; fantasy","arg":"s: science fiction &amp; fantasy"},{"title":"s: computational science","arg":"s: computational science"},{"title":"s: salesforce","arg":"s: salesforce"},{"title":"s: russian language","arg":"s: russian language"},{"title":"s: role playing games","arg":"s: role playing games"},{"title":"s: reverse engineering","arg":"s: reverse engineering"},{"title":"s: quantitative finance","arg":"s: quantitative finance"},{"title":"s: politics","arg":"s: politics"},{"title":"s: poker","arg":"s: poker"},{"title":"s: project management","arg":"s: project management"},{"title":"s: photography","arg":"s: photography"},{"title":"s: philosophy","arg":"s: philosophy"},{"title":"s: pets","arg":"s: pets"},{"title":"s: ask patents","arg":"s: ask patents"},{"title":"s: parenting","arg":"s: parenting"},{"title":"s: great outdoors","arg":"s: great outdoors"},{"title":"s: open data","arg":"s: open data"},{"title":"s: network engineering","arg":"s: network engineering"},{"title":"s: music","arg":"s: music"},{"title":"s: movies &amp; tv","arg":"s: movies &amp; tv"},{"title":"s: personal finance &amp; money","arg":"s: personal finance &amp; money"},{"title":"s: meta","arg":"s: meta"},{"title":"s: motor vehicle maintenance &amp; repair","arg":"s: motor vehicle maintenance &amp; repair"},{"title":"s: math overflow","arg":"s: math overflow"},{"title":"s: mathematics educators","arg":"s: mathematics educators"},{"title":"s: martial arts","arg":"s: martial arts"},{"title":"s: magento","arg":"s: magento"},{"title":"s: linguistics","arg":"s: linguistics"},{"title":"s: japanese language","arg":"s: japanese language"},{"title":"s: italian language","arg":"s: italian language"},{"title":"s: islam","arg":"s: islam"},{"title":"s: homebrewing","arg":"s: homebrewing"},{"title":"s: history","arg":"s: history"},{"title":"s: biblical hermeneutics","arg":"s: biblical hermeneutics"},{"title":"s: amateur radio","arg":"s: amateur radio","subtitle":""},{"title":"s: graphic design","arg":"s: graphic design"},{"title":"s: geographic information systems","arg":"s: geographic information systems"},{"title":"s: german language","arg":"s: german language","subtitle":""},{"title":"s: genealogy &amp; family history","arg":"s: genealogy &amp; family history"},{"title":"s: gardening &amp; landscaping","arg":"s: gardening &amp; landscaping"},{"title":"s: gaming","arg":"s: gaming"},{"title":"s: french language","arg":"s: french language"},{"title":"s: freelancing","arg":"s: freelancing"},{"title":"s: physical fitness","arg":"s: physical fitness"},{"title":"s: expression engine","arg":"s: expression engine"},{"title":"s: expatriates","arg":"s: expatriates"},{"title":"s: english language &amp; usage","arg":"s: english language &amp; usage"},{"title":"s: computer science","arg":"s: computer science"},{"title":"s: data science","arg":"s: data science"},{"title":"s: gamedev","arg":"s: gamedev"},{"title":"s: mathematics","arg":"s: mathematics"},{"title":"s: mathematica","arg":"s: mathematica"},{"title":"s: physics","arg":"s: physics"},{"title":"s: personal productivity","arg":"s: personal productivity"},{"title":"s: raspberry pie","arg":"s: raspberry pie"},{"title":"s: server fault","arg":"s: server fault"},{"title":"s: software engineering","arg":"s: software engineering"},{"title":"s: super user","arg":"s: super user"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: apple","arg":"r: apple"},{"imagefile":"5ead18126f423088ba03e0b9d778cbe0efafbac9.png","title":"g: new github repo","arg":"g: new repo"},{"imagefile":"5ead18126f423088ba03e0b9d778cbe0efafbac9.png","title":"g: new gist","arg":"g: new gist"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: psychonaut","arg":"r: psychonaut"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: rational psychonaut","arg":"r: rational psychonaut"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: ios programming","arg":"r: ios programming"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: mac apps","arg":"r: mac apps"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: macos","arg":"r: macos"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: android","arg":"r: android"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: linux","arg":"r: linux"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: docker","arg":"r: docker"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: listen to this","arg":"r: listen to this"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: future pop music","arg":"r: future pop music"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: experimental music","arg":"r: experimental music"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: future beats","arg":"r: future beats"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: physics","arg":"r: physics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: math","arg":"r: math"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: ece","arg":"r: ece"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: probability theory","arg":"r: probability theory"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: math pics","arg":"r: math pics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: get disciplined","arg":"r: get disciplined"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: meditation","arg":"r: meditation"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: nootropics","arg":"r: nootropics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: health","arg":"r: health"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: webdev","arg":"r: webdev"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: web design","arg":"r: web design"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: node","arg":"r: node"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: learn javascript","arg":"r: learn javascript"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: frontend","arg":"r: frontend"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: react js","arg":"r: react js"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: rails","arg":"r: rails"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: learn programming","arg":"r: learn programming"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: programming","arg":"r: programming"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: sysadmin","arg":"r: sysadmin"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: netsec","arg":"r: netsec"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: gamedev","arg":"r: gamedev"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: python","arg":"r: python"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: reverse engineering","arg":"r: reverse engineering"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: vim","arg":"r: vim"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: golang","arg":"r: golang"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: programmer til","arg":"r: programmer til"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: vim magic","arg":"r: vim magic"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: machine learning","arg":"r: machine learning"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: statistics","arg":"r: statistics"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: neural networks","arg":"r: neural networks"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: learn machine learning","arg":"r: learn machine learning"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: ml questions","arg":"r: ml questions"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: lsd","arg":"r: lsd"},{"imagefile":"500e969d4b1eb5b62eaca0dc4fb25c168b7ed079.png","title":"r: computer vision","arg":"r: computer vision"},{"imagefile":"106b0be725eb6bb7b41fb0c47963770aaa5c3856.png","title":"w: new codepen","arg":"w: new codepen"},{"imagefile":"ee7da4194868afb28d53647dcdd1f23eaf31748b.png","title":"w: telegraph","arg":"w: telegraph"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred help","arg":"f: alfred discussion"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred share workflow","arg":"f: alfred share workflow"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred workflow help","arg":"f: alfred workflow help"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred bug report","arg":"f: alfred bug report"},{"imagefile":"9cd07df544caa5e2b34a93301be542e5f71033f5.png","title":"f: alfred feature suggestion","arg":"f: alfred feature suggestion"},{"imagefile":"7bdf42b5a799f0f175ee53ec5bf9a746ef23eee3.png","title":"w: goodreads new quote","arg":"w: goodreads new quote","subtitle":""},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: haskell","arg":"r: haskell"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: vegan","arg":"r: vegan"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: alfred","arg":"r: alfred"},{"imagefile":"345c528c5220f3bf16a6a30b7461dc400a9a4ccc.png","title":"w: product hunt","arg":"w: product hunt"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: cool github project","arg":"r: cool github project"},{"imagefile":"f376a7628e27df0848cbd4be3d3efb733c69c33d.png","title":"d: new google doc","arg":"d: new google doc"},{"imagefile":"b0d9ef0f74db0b8bbb5c610eb69a04b789d3a626.png","title":"d: new google sheet","arg":"d: new google sheet"},{"imagefile":"41bc7a9d77aaedeb020872148ffb8ee367f71076.png","title":"d: new google slide","arg":"d: new google slide"},{"imagefile":"eec60b31f04b4101f8558535a2bad5ed6a600096.png","title":"d: new google form","arg":"d: new google form"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: privacy","arg":"r: privacy"},{"title":"s: computer graphics","arg":"s: computer graphics"},{"imagefile":"86c5152723a8194fdae064db81b46227b1793022.png","title":"r: swift","arg":"r: swift"}]</string>
 				<key>runningsubtext</key>
 				<string></string>
 				<key>subtext</key>
@@ -10776,120 +10920,6 @@
 			<string>alfred.workflow.input.listfilter</string>
 			<key>uid</key>
 			<string>27B1F01C-F942-4C1B-8F86-155CF7EC4B2A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://docs.google.com/document/create</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>E601EEDB-88D5-4C56-95D7-B1312063D096</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://docs.google.com/document/create</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>3827B163-ECD3-44C1-BF04-75E155BA6947</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://docs.google.com/document/create</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>81D7CD86-79D4-4413-936F-6BD702D41D8C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>d: new google doc</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>CA63A5A4-A0A8-4CF2-9049-A948EEF8060C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>d: new google doc</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>DA7B0914-3CD5-4755-A967-587BC4074116</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>d: new google doc</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>62C647F8-487D-4574-870C-F9CBF931B920</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -11091,101 +11121,6 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://docs.google.com/presentation/create</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>1DCAAC4C-8416-449B-9E07-DF6635EA5649</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://docs.google.com/document/create</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>31A6DE97-B557-4937-9695-E3CEEC111A5A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://docs.google.com/spreadsheets/create</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>A656FEE0-0333-4747-8B0B-4FF4A22687C6</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://docs.google.com/forms/create</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>1A7A3D6D-5299-4CE6-8EBE-534FAB4C623E</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>d: new google form</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>1829CB43-356B-4192-AC72-C08FAA9CCE62</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
 				<string>https://github.com/new</string>
 				<key>utf8</key>
 				<true/>
@@ -11194,25 +11129,6 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>65D9E2D3-5A7B-4604-98D6-F7C145283301</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>d: new google sheet</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>700E477B-7835-4D7B-802E-9127FBA43E61</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -11232,44 +11148,6 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>E28D6455-8955-4DB6-9FC6-46D132A49925</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>d: new google slide</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>CEE648C0-878C-442C-A072-83CF61EB50AC</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>d: new google doc</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>C06A6D44-EE95-4BA1-8F1D-A4EB14F50186</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -11498,6 +11376,158 @@
 			<string>alfred.workflow.utility.filter</string>
 			<key>uid</key>
 			<string>86BF28E7-6656-4027-BBBD-34A2440E722C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://docs.google.com/presentation/create</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>1DCAAC4C-8416-449B-9E07-DF6635EA5649</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://docs.google.com/document/create</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>31A6DE97-B557-4937-9695-E3CEEC111A5A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://docs.google.com/spreadsheets/create</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>A656FEE0-0333-4747-8B0B-4FF4A22687C6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://docs.google.com/forms/create</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>1A7A3D6D-5299-4CE6-8EBE-534FAB4C623E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>d: new google form</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>1829CB43-356B-4192-AC72-C08FAA9CCE62</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>d: new google sheet</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>700E477B-7835-4D7B-802E-9127FBA43E61</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>d: new google slide</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>CEE648C0-878C-442C-A072-83CF61EB50AC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>d: new google doc</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>C06A6D44-EE95-4BA1-8F1D-A4EB14F50186</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -11801,9 +11831,9 @@ f: - ask question on the forum</string>
 			<key>note</key>
 			<string>d: new google form</string>
 			<key>xpos</key>
-			<integer>380</integer>
+			<integer>20</integer>
 			<key>ypos</key>
-			<integer>680</integer>
+			<integer>1030</integer>
 		</dict>
 		<key>1851ACB4-E590-4676-A417-1141CA9B81FF</key>
 		<dict>
@@ -11853,9 +11883,9 @@ f: - ask question on the forum</string>
 		<key>1A7A3D6D-5299-4CE6-8EBE-534FAB4C623E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>490</integer>
+			<integer>130</integer>
 			<key>ypos</key>
-			<integer>670</integer>
+			<integer>1020</integer>
 		</dict>
 		<key>1AD18DD6-F7F0-4F1B-8653-0F350872A1E1</key>
 		<dict>
@@ -11875,6 +11905,13 @@ f: - ask question on the forum</string>
 			<key>ypos</key>
 			<integer>20</integer>
 		</dict>
+		<key>1C5FA3DF-0BA1-463C-9F55-3633C43AF1DB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>70</integer>
+		</dict>
 		<key>1CAA82CF-3B93-4F6D-8827-E274DC3D65BF</key>
 		<dict>
 			<key>xpos</key>
@@ -11892,9 +11929,9 @@ f: - ask question on the forum</string>
 		<key>1DCAAC4C-8416-449B-9E07-DF6635EA5649</key>
 		<dict>
 			<key>xpos</key>
-			<integer>490</integer>
+			<integer>130</integer>
 			<key>ypos</key>
-			<integer>660</integer>
+			<integer>1010</integer>
 		</dict>
 		<key>1EA562A6-3A54-47CE-9C21-D88604C29371</key>
 		<dict>
@@ -11919,7 +11956,7 @@ f: - ask question on the forum</string>
 			<key>xpos</key>
 			<integer>590</integer>
 			<key>ypos</key>
-			<integer>140</integer>
+			<integer>90</integer>
 		</dict>
 		<key>205D28AF-5631-4261-B806-8973A627CC4D</key>
 		<dict>
@@ -12126,9 +12163,9 @@ f: - ask question on the forum</string>
 		<key>31A6DE97-B557-4937-9695-E3CEEC111A5A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>480</integer>
+			<integer>120</integer>
 			<key>ypos</key>
-			<integer>660</integer>
+			<integer>1010</integer>
 		</dict>
 		<key>323EBA21-FAD4-47A5-A760-7BD8A64126A4</key>
 		<dict>
@@ -12186,13 +12223,6 @@ f: - ask question on the forum</string>
 			<integer>20</integer>
 			<key>ypos</key>
 			<integer>30</integer>
-		</dict>
-		<key>3827B163-ECD3-44C1-BF04-75E155BA6947</key>
-		<dict>
-			<key>xpos</key>
-			<integer>570</integer>
-			<key>ypos</key>
-			<integer>320</integer>
 		</dict>
 		<key>38DF9FE9-F6FE-4F74-8C22-C33CF405724F</key>
 		<dict>
@@ -12589,6 +12619,15 @@ f: - ask question on the forum</string>
 			<key>ypos</key>
 			<integer>50</integer>
 		</dict>
+		<key>5F0DFEB3-6633-4BB7-9CA3-388BA3603123</key>
+		<dict>
+			<key>note</key>
+			<string>s: computer graphics</string>
+			<key>xpos</key>
+			<integer>60</integer>
+			<key>ypos</key>
+			<integer>60</integer>
+		</dict>
 		<key>5F7124E2-19E0-47A5-B49F-B394CF0B0B82</key>
 		<dict>
 			<key>xpos</key>
@@ -12634,15 +12673,6 @@ f: - ask question on the forum</string>
 			<integer>340</integer>
 			<key>ypos</key>
 			<integer>30</integer>
-		</dict>
-		<key>62C647F8-487D-4574-870C-F9CBF931B920</key>
-		<dict>
-			<key>note</key>
-			<string>d: new google doc</string>
-			<key>xpos</key>
-			<integer>480</integer>
-			<key>ypos</key>
-			<integer>350</integer>
 		</dict>
 		<key>62D3553F-0FD5-4ED4-98DF-8E8E64DFD2EF</key>
 		<dict>
@@ -12865,9 +12895,9 @@ f: - ask question on the forum</string>
 			<key>note</key>
 			<string>d: new google sheet</string>
 			<key>xpos</key>
-			<integer>390</integer>
+			<integer>30</integer>
 			<key>ypos</key>
-			<integer>680</integer>
+			<integer>1030</integer>
 		</dict>
 		<key>7017B8CB-02A1-45B4-985A-3CFF14B67C50</key>
 		<dict>
@@ -13018,13 +13048,6 @@ f: - ask question on the forum</string>
 			<key>ypos</key>
 			<integer>50</integer>
 		</dict>
-		<key>81D7CD86-79D4-4413-936F-6BD702D41D8C</key>
-		<dict>
-			<key>xpos</key>
-			<integer>570</integer>
-			<key>ypos</key>
-			<integer>320</integer>
-		</dict>
 		<key>81F4891D-8D74-4B49-9FCC-C8DF9CEE9782</key>
 		<dict>
 			<key>xpos</key>
@@ -13046,9 +13069,9 @@ f: - ask question on the forum</string>
 			<key>note</key>
 			<string>r: neural networks</string>
 			<key>xpos</key>
-			<integer>600</integer>
+			<integer>610</integer>
 			<key>ypos</key>
-			<integer>130</integer>
+			<integer>10</integer>
 		</dict>
 		<key>848E5521-8DBA-426B-98CE-8841BD6B6536</key>
 		<dict>
@@ -13158,6 +13181,15 @@ f: - ask question on the forum</string>
 			<integer>30</integer>
 			<key>ypos</key>
 			<integer>60</integer>
+		</dict>
+		<key>89537ACE-9021-4309-8D51-265BF7240B16</key>
+		<dict>
+			<key>note</key>
+			<string>r: privacy</string>
+			<key>xpos</key>
+			<integer>600</integer>
+			<key>ypos</key>
+			<integer>40</integer>
 		</dict>
 		<key>899EFF25-2D25-4564-82B7-EE17100BDA2A</key>
 		<dict>
@@ -13340,6 +13372,13 @@ f: - ask question on the forum</string>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
+		<key>9BC5FE92-1817-4CD1-AA94-AFBAFB6F8A50</key>
+		<dict>
+			<key>xpos</key>
+			<integer>220</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
 		<key>9D06EA6F-E260-4305-889F-99AF4194C73D</key>
 		<dict>
 			<key>xpos</key>
@@ -13473,9 +13512,9 @@ f: - ask question on the forum</string>
 		<key>A656FEE0-0333-4747-8B0B-4FF4A22687C6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>140</integer>
 			<key>ypos</key>
-			<integer>660</integer>
+			<integer>1010</integer>
 		</dict>
 		<key>A69621DD-BAD4-4BF6-B6A7-F5F08101E599</key>
 		<dict>
@@ -13524,6 +13563,13 @@ f: - ask question on the forum</string>
 			<integer>740</integer>
 			<key>ypos</key>
 			<integer>60</integer>
+		</dict>
+		<key>AAEAAD03-2DC0-4BC8-A028-309A94D35F24</key>
+		<dict>
+			<key>xpos</key>
+			<integer>750</integer>
+			<key>ypos</key>
+			<integer>70</integer>
 		</dict>
 		<key>AAFA68B4-C929-4981-94C8-250E31FF833F</key>
 		<dict>
@@ -13784,6 +13830,15 @@ f: - ask question on the forum</string>
 			<key>ypos</key>
 			<integer>20</integer>
 		</dict>
+		<key>BDF1A00A-9CDA-4C32-BAC9-E6E6506D9079</key>
+		<dict>
+			<key>note</key>
+			<string>r: swift</string>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>90</integer>
+		</dict>
 		<key>BE685303-B66D-4CA5-8AE5-DE6FFE7E6AD4</key>
 		<dict>
 			<key>note</key>
@@ -13814,9 +13869,9 @@ f: - ask question on the forum</string>
 			<key>note</key>
 			<string>d: new google doc</string>
 			<key>xpos</key>
-			<integer>390</integer>
+			<integer>30</integer>
 			<key>ypos</key>
-			<integer>690</integer>
+			<integer>1040</integer>
 		</dict>
 		<key>C434E02C-DCC0-47F3-80C5-2B708A9742FC</key>
 		<dict>
@@ -13937,15 +13992,6 @@ f: - ask question on the forum</string>
 			<key>ypos</key>
 			<integer>60</integer>
 		</dict>
-		<key>CA63A5A4-A0A8-4CF2-9049-A948EEF8060C</key>
-		<dict>
-			<key>note</key>
-			<string>d: new google doc</string>
-			<key>xpos</key>
-			<integer>480</integer>
-			<key>ypos</key>
-			<integer>350</integer>
-		</dict>
 		<key>CB045624-9AA1-4A69-AE08-BBE0D1DE91FB</key>
 		<dict>
 			<key>note</key>
@@ -14017,9 +14063,9 @@ f: - ask question on the forum</string>
 			<key>note</key>
 			<string>d: new google slide</string>
 			<key>xpos</key>
-			<integer>390</integer>
+			<integer>30</integer>
 			<key>ypos</key>
-			<integer>680</integer>
+			<integer>1030</integer>
 		</dict>
 		<key>CF6D75F7-A3CF-46C4-A820-22A5EBCB04D3</key>
 		<dict>
@@ -14109,15 +14155,6 @@ f: - ask question on the forum</string>
 			<integer>720</integer>
 			<key>ypos</key>
 			<integer>70</integer>
-		</dict>
-		<key>DA7B0914-3CD5-4755-A967-587BC4074116</key>
-		<dict>
-			<key>note</key>
-			<string>d: new google doc</string>
-			<key>xpos</key>
-			<integer>480</integer>
-			<key>ypos</key>
-			<integer>350</integer>
 		</dict>
 		<key>DAF0106F-A609-4326-8869-EBEB8364F34D</key>
 		<dict>
@@ -14258,13 +14295,6 @@ f: - ask question on the forum</string>
 			<integer>600</integer>
 			<key>ypos</key>
 			<integer>120</integer>
-		</dict>
-		<key>E601EEDB-88D5-4C56-95D7-B1312063D096</key>
-		<dict>
-			<key>xpos</key>
-			<integer>570</integer>
-			<key>ypos</key>
-			<integer>320</integer>
 		</dict>
 		<key>E6CB89BF-5156-4509-AEF9-2471B093A821</key>
 		<dict>
