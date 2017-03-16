@@ -1,8 +1,8 @@
-#[download](https://github.com/nikitavoloboev/ask-create-share-alfred/releases/download/2/a.ask.create.share.alfredworkflow)
+# [Download](https://github.com/nikitavoloboev/ask-create-share-alfred/releases/download/2/a.ask.create.share.alfredworkflow)
 
 ![](http://i.imgur.com/qII38OI.png)
 
-#mindmap index 🗄️
+# Index🗄️
 
 # description
 
