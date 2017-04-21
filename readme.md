@@ -1,16 +1,16 @@
 # [Download](https://github.com/nikitavoloboev/ask-create-share-alfred/releases/download/2/a.ask.create.share.alfredworkflow)
 
-![](http://i.imgur.com/qII38OI.png)
+# Description
 
-# Index 🗄️
+It is a really fast filter for various online web submissions that you can do.
 
-# description
+You can filter submissions by using various prefixes. 
+ 
+# [Interactive Mind Map of Worklflow 🗺️](https://my.mindnode.com/iMiPq61py1Pdbo3YjeaJcBoxC7HJAZ7TpgAjGGrN)
 
+![](http://i.imgur.com/QwQbh9v.png)
 
-## simple list filter for various online web submissions
-
-## It all goes into one list filter and from there on you can filter with a set of prefixes.
-
+# Mind Map Content 🗺️
 
 # prefixes
 
