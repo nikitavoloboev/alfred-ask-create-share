@@ -14,3 +14,4 @@ You can filter submissions by using various prefixes.
 
 ![](http://i.imgur.com/V6qwtXQ.png)
 
+[Part of a bigger picture 🗺](https://github.com/nikitavoloboev/knowledge-map)
