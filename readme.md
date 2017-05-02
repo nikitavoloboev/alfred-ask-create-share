@@ -14,4 +14,6 @@ You can filter submissions by using various prefixes.
 
 ![](http://i.imgur.com/V6qwtXQ.png)
 
-[Part of a bigger picture 🗺](https://github.com/nikitavoloboev/knowledge-map)
+# [Part of a bigger picture 🗺](https://github.com/nikitavoloboev/knowledge-map)
+
+If interested, this project is just a part of a more [generalised mind map](https://github.com/nikitavoloboev/knowledge-map) I am making and maintaining. 
