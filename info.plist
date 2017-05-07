@@ -5,7 +5,7 @@
 	<key>bundleid</key>
 	<string>com.nikivi.ask</string>
 	<key>category</key>
-	<string>web</string>
+	<string>mine</string>
 	<key>connections</key>
 	<dict>
 		<key>00E0972B-8F79-4A7C-9519-58A11E45D7AF</key>
@@ -8617,25 +8617,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{query}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>s: server fault</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>7B26B0AE-3445-4C3B-825C-C3C7593F150E</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -8649,6 +8630,25 @@
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>BC3FF5D9-95BE-4FD7-98E5-1149DF9CA33B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>s: server fault</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>7B26B0AE-3445-4C3B-825C-C3C7593F150E</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
