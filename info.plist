@@ -4412,7 +4412,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>a: ask, create, share</string>
+	<string>ask, create, share</string>
 	<key>objects</key>
 	<array>
 		<dict>
