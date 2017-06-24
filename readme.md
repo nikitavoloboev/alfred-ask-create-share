@@ -17,6 +17,6 @@ You can filter submissions by using various prefixes.
 |  w: | is for all other websites like creating new hacker news thread or new codepen|
 | d:  |  create google docs, sheets, slide or form |
 
+![](http://i.imgur.com/uI7JUrp.png)
 
-<p align="center"><img src="http://i.imgur.com/uI7JUrp.png" alt="img" width="600"></p>
 
