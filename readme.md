@@ -8,5 +8,15 @@ It is a really fast filter for various online web submissions that you can do.
 
 You can filter submissions by using various prefixes. 
 
+|  prefix |  description |
+|---|---|
+| s:  |  filter for asking questions on any one of stack exchange sites |
+|  r: | filter for creating new threads on various reddit subreddits  |
+|  f: |  filter for asking questions on various forums like [Alfred Forum](https://www.alfredforum.com/) |
+|  g: |  currently allows you to quickly create new repository or new gist |
+|  w: | is for all other websites like creating new hacker news thread or new codepen|
+| d:  |  create google docs, sheets, slide or form |
+
+
 ![](http://i.imgur.com/uI7JUrp.png)
 
