@@ -1,4 +1,16 @@
-<h1 align="center"> <a href="https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest"> Latest Release 🍀</a></h1>
+<h1 align="center"> Create web submissions on the internet </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/nikitavoloboev">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/nikitavoloboev/alfred-ask-create-share/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+
+<h2 align="center"> <a href="https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest"> Latest Release 🍀</a></h2>
 
 <h2 align="center"> <a href="http://quick.as/m19vSzYBP"> Demonstaration 👀</a> </h2>
 
@@ -17,6 +29,5 @@ You can filter submissions by using various prefixes.
 |  w: | is for all other websites like creating new hacker news thread or new codepen|
 | d:  |  create google docs, sheets, slide or form |
 
-![](http://i.imgur.com/uI7JUrp.png)
 
-
+<p align="center"><img src="http://i.imgur.com/uI7JUrp.png" alt="img" width="600"></p>
