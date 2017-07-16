@@ -9,10 +9,11 @@
 	</a>
 </div>
 
-
 <h2 align="center"> <a href="https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest"> Latest Release 🍀</a></h2>
 
-<h2 align="center"> <a href="http://quick.as/m19vSzYBP"> Demonstaration 👀</a> </h2>
+<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/img/master/github/ask%2Ccreate%2Cshare.gif?token=AGGH4Hu2b2MHDIG6UZDfeWEigVNzc6y_ks5ZdPATwA%3D%3D" alt="img" width="600"></p>
+
+
 
 <h1 align="center"> Description 📔</h1>
 
