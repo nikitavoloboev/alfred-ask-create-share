@@ -97,7 +97,7 @@ func run() {
 	// check job isn't already running.
 	if wf.UpdateCheckDue() && !aw.IsRunning(updateJobName) {
 		log.Println("Running update check in background...")
-		cmd := exec.Command("./update", "check")
+		cmd := exec.Command("./alfred-ask-create-share", "check")
 		if err := aw.RunInBackground(updateJobName, cmd); err != nil {
 			log.Printf("Error starting update check: %s", err)
 		}
