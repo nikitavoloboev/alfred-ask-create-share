@@ -62,7 +62,7 @@ Options:
 
 var (
 	iconAvailable = &aw.Icon{Value: "icons/update.png"}
-	repo          = "nikitavoloboev/ask-create-share"
+	repo          = "nikitavoloboev/alfred-ask-create-share"
 	wf            *aw.Workflow
 )
 
