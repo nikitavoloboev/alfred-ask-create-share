@@ -21,6 +21,32 @@
 				<false/>
 			</dict>
 		</array>
+		<key>78BD8647-1014-45B5-BA89-4B17859D258E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F054925B-E63D-4611-9A90-88C916902F29</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A6EE5A4B-B351-4EE4-A9C2-EB744807B2EF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>150EEA44-C798-4560-8F1A-0AB3ABA06737</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>D7D35E34-B843-43B1-997D-C8BA67F0F474</key>
 		<array>
 			<dict>
@@ -67,6 +93,19 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>triggerid</key>
+				<string>askCreateShare</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>D7D35E34-B843-43B1-997D-C8BA67F0F474</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -88,7 +127,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-ask-create-share filter -q "$1"</string>
+				<string>./alfred-ask-create-share search "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -112,13 +151,71 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>triggerid</key>
-				<string>askCreateShare</string>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>D7D35E34-B843-43B1-997D-C8BA67F0F474</string>
+			<string>A6EE5A4B-B351-4EE4-A9C2-EB744807B2EF</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>edit submissions</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>edit web submissions</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>78BD8647-1014-45B5-BA89-4B17859D258E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/workflow/ask-create-share.csv</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>F054925B-E63D-4611-9A90-88C916902F29</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -129,10 +226,21 @@
 	<dict>
 		<key>150EEA44-C798-4560-8F1A-0AB3ABA06737</key>
 		<dict>
+			<key>note</key>
+			<string>search through web submissions</string>
 			<key>xpos</key>
 			<integer>230</integer>
 			<key>ypos</key>
 			<integer>20</integer>
+		</dict>
+		<key>78BD8647-1014-45B5-BA89-4B17859D258E</key>
+		<dict>
+			<key>note</key>
+			<string>add more submissions to search over</string>
+			<key>xpos</key>
+			<integer>30</integer>
+			<key>ypos</key>
+			<integer>320</integer>
 		</dict>
 		<key>9C6C85EC-6FB7-46B9-809F-F773E42FC217</key>
 		<dict>
@@ -141,6 +249,13 @@
 			<key>ypos</key>
 			<integer>20</integer>
 		</dict>
+		<key>A6EE5A4B-B351-4EE4-A9C2-EB744807B2EF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>40</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
 		<key>D7D35E34-B843-43B1-997D-C8BA67F0F474</key>
 		<dict>
 			<key>xpos</key>
@@ -148,7 +263,16 @@
 			<key>ypos</key>
 			<integer>20</integer>
 		</dict>
+		<key>F054925B-E63D-4611-9A90-88C916902F29</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
 	</dict>
+	<key>version</key>
+	<string></string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>
