@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
+	"strings"
 
 	"git.deanishe.net/deanishe/awgo"
 	"git.deanishe.net/deanishe/awgo/update"
@@ -28,9 +29,15 @@ Options:
 `
 
 var (
+	// icons
 	iconAvailable = &aw.Icon{Value: "icons/update.png"}
-	repo          = "nikitavoloboev/alfred-ask-create-share"
-	wf            *aw.Workflow
+	redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
+	githubIcon    = &aw.Icon{Value: "icons/github.png"}
+	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
+	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
+
+	repo = "nikitavoloboev/alfred-ask-create-share"
+	wf   *aw.Workflow
 )
 
 func init() {
@@ -38,7 +45,6 @@ func init() {
 }
 
 func run() {
-	// log.Println(wf.Args())
 
 	// Pass wf.Args() to docopt because our update logic relies on
 	// AwGo's magic actions.
@@ -86,17 +92,18 @@ func run() {
 	links := parseCSV()
 
 	for key, value := range links {
-		wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key)
+		if strings.Contains(key, "r: ") {
+			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(redditIcon)
+		} else if strings.Contains(key, "s: ") {
+			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(stackIcon)
+		} else if strings.Contains(key, "g: ") {
+			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(githubIcon)
+		} else if strings.Contains(key, "f: ") {
+			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(forumsIcon)
+		} else {
+			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key)
+		}
 	}
-
-	// script filter results
-	// for i := 1; i <= 20; i++ {
-	// 	t := fmt.Sprintf("Item #%d", i)
-	// 	wf.NewItem(t).
-	// 		Icon(aw.IconFavourite).
-	// 		Arg(t).
-	// 		Valid(true)
-	// }
 
 	if query != "" {
 		wf.Filter(query)
@@ -106,6 +113,7 @@ func run() {
 	wf.SendFeedback()
 }
 
+// parses CSV of links and arguments
 func parseCSV() map[string]string {
 	var err error
 
@@ -132,13 +140,6 @@ func parseCSV() map[string]string {
 
 	return links
 
-}
-
-// fills Alfred with hash map values and shows keys
-func filterResults(links map[string]string) {
-
-	// wf.Filter(query)
-	// wf.SendFeedback()
 }
 
 func main() {
