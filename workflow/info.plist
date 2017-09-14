@@ -272,7 +272,7 @@
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>0.9</string>
+	<string>v1.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>
