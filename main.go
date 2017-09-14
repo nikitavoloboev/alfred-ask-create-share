@@ -2,74 +2,111 @@ package main
 
 import (
 	"encoding/csv"
-	"fmt"
 	"log"
 	"os"
+	"os/exec"
 
 	"git.deanishe.net/deanishe/awgo"
 	"git.deanishe.net/deanishe/awgo/update"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/docopt/docopt-go"
 )
 
-// name of the background job that checks for updates
+// Name of the background job that checks for updates
 const updateJobName = "checkForUpdate"
 
+var usage = `alfred-ask-create-share [search|check] [<query>]
+
+Open web submissions from Alfred
+
+Usage:
+	alfred-ask-create-share search [<query>]
+    alfred-ask-create-share check
+    alfred-ask-create-share -h
+
+Options:
+    -h, --help    Show this message and exit.
+`
+
 var (
-	// kingpin and script
-	app *kingpin.Application
-
-	// app commands
-	filterSubmissionsCmd *kingpin.CmdClause
-
-	// script options
-	query string
-
-	// icons
-	// redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
-	// docIcon       = &aw.Icon{Value: "icons/doc.png"}
-	// gitubIcon     = &aw.Icon{Value: "icons/github.png"}
-	// forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
-	// translateIcon = &aw.Icon{Value: "icons/translate.png"}
-	// stackIcon     = &aw.Icon{Value: "icons/stack.png"}
-	// iconAvailable = &aw.Icon{Value: "icons/update-available.png"}
-
-	repo = "nikitavoloboev/alfred-ask-create-share"
-
-	// workflow
-	wf *aw.Workflow
+	iconAvailable = &aw.Icon{Value: "icons/update.png"}
+	repo          = "nikitavoloboev/alfred-ask-create-share"
+	wf            *aw.Workflow
 )
 
 func init() {
 	wf = aw.New(update.GitHub(repo))
-
-	app = kingpin.New("ask-create-share", "make web submissions from Alfred")
-	// app.HelpFlag.Short('h')
-	app.Version(wf.Version())
-
-	filterSubmissionsCmd = app.Command("filter", "filters submissions")
-
-	for _, cmd := range []*kingpin.CmdClause{filterSubmissionsCmd} {
-		cmd.Flag("query", "search query").Short('q').StringVar(&query)
-	}
-
-	// list action commands
-	app.DefaultEnvars()
 }
 
-// _actions
+func run() {
+	// log.Println(wf.Args())
 
-// fills Alfred with hash map values and shows keys
-func filterResults(links map[string]string) {
+	// Pass wf.Args() to docopt because our update logic relies on
+	// AwGo's magic actions.
+	args, _ := docopt.Parse(usage, wf.Args(), true, wf.Version(), false, true)
+
+	// alternate action: get available releases from remote
+	if args["check"] != false {
+		wf.TextErrors = true
+		log.Println("checking for updates...")
+		if err := wf.CheckForUpdate(); err != nil {
+			wf.FatalError(err)
+		}
+		return
+	}
+
+	// _script filter
+	var query string
+	if args["<query>"] != nil {
+		query = args["<query>"].(string)
+	}
+
+	log.Printf("query=%s", query)
+
+	// call self with "check" command if an update is due and a
+	// check job isn't already running.
+	if wf.UpdateCheckDue() && !aw.IsRunning(updateJobName) {
+		log.Println("running update check in background...")
+		cmd := exec.Command("./alfred-ask-create-share", "check")
+		if err := aw.RunInBackground(updateJobName, cmd); err != nil {
+			log.Printf("error starting update check: %s", err)
+		}
+	}
+
+	if query == "" { // Only show update status if query is empty
+		// Send update status to Alfred
+		if wf.UpdateAvailable() {
+			wf.NewItem("update available!").
+				Subtitle("↩ to install").
+				Autocomplete("workflow:update").
+				Valid(false).
+				Icon(iconAvailable)
+		}
+	}
+
+	links := parseCSV()
 
 	for key, value := range links {
 		wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key)
 	}
 
-	wf.Filter(query)
+	// script filter results
+	// for i := 1; i <= 20; i++ {
+	// 	t := fmt.Sprintf("Item #%d", i)
+	// 	wf.NewItem(t).
+	// 		Icon(aw.IconFavourite).
+	// 		Arg(t).
+	// 		Valid(true)
+	// }
+
+	if query != "" {
+		wf.Filter(query)
+	}
+
+	wf.WarnEmpty("no matching items", "try a different query?")
 	wf.SendFeedback()
 }
 
-func run() {
+func parseCSV() map[string]string {
 	var err error
 
 	// load values from file to a hash map
@@ -93,24 +130,17 @@ func run() {
 		links[record[0]] = record[1]
 	}
 
-	// _arg parsing
-	cmd, err := app.Parse(wf.Args())
-	if err != nil {
-		wf.FatalError(err)
-	}
+	return links
 
-	switch cmd {
-	case filterSubmissionsCmd.FullCommand():
-		filterResults(links)
-	default:
-		err = fmt.Errorf("unknown command: %s", cmd)
-	}
+}
 
-	if err != nil {
-		wf.FatalError(err)
-	}
+// fills Alfred with hash map values and shows keys
+func filterResults(links map[string]string) {
+
+	// wf.Filter(query)
+	// wf.SendFeedback()
 }
 
 func main() {
-	aw.Run(run)
+	wf.Run(run)
 }

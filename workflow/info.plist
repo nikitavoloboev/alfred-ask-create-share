@@ -127,7 +127,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./alfred-ask-create-share filter -q "$1"</string>
+				<string>./alfred-ask-create-share search "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -272,7 +272,7 @@
 		</dict>
 	</dict>
 	<key>version</key>
-	<string></string>
+	<string>v1.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>
