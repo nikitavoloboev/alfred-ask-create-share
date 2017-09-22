@@ -86,7 +86,6 @@ s: chinese,http://chinese.stackexchange.com/questions/ask
 s: computational science,https://scicomp.stackexchange.com/questions/ask
 s: video production,https://video.stackexchange.com/questions/ask
 s: arduino,http://arduino.stackexchange.com/questions/ask
-s: beer, wine and & spirits,https://alcohol.stackexchange.com/questions/ask
 s: bicycles,https://bicycles.stackexchange.com/questions/ask
 s: poker,https://poker.stackexchange.com/questions/ask
 s: web applications,https://webapps.stackexchange.com/questions/ask
@@ -190,3 +189,6 @@ f: alfred workflow help,https://www.alfredforum.com/forum/13-workflow-help-quest
 f: alfred bug report,https://www.alfredforum.com/forum/6-bug-reports/?do=add
 f: alfred feature suggestion,https://www.alfredforum.com/forum/5-alfred-feature-suggestions/?do=add
 r: apple,https://www.reddit.com/r/apple/submit
+s: beer wine and & spirits,https://alcohol.stackexchange.com/questions/ask
+w: youtube,https://www.youtube.com/upload
+r: simulated reality,https://www.reddit.com/r/AWLIAS/submit

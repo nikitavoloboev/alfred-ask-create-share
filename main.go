@@ -35,6 +35,7 @@ var (
 	githubIcon    = &aw.Icon{Value: "icons/github.png"}
 	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
 	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
+	docIcon       = &aw.Icon{Value: "icons/doc.png"}
 
 	repo = "nikitavoloboev/alfred-ask-create-share"
 	wf   *aw.Workflow
@@ -100,6 +101,8 @@ func run() {
 			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(githubIcon)
 		} else if strings.Contains(key, "f: ") {
 			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(forumsIcon)
+		} else if strings.Contains(key, "d: ") {
+			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(docIcon)
 		} else {
 			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key)
 		}

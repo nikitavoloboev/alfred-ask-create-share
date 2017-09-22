@@ -8,6 +8,19 @@
 	<string>mine</string>
 	<key>connections</key>
 	<dict>
+		<key>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>150EEA44-C798-4560-8F1A-0AB3ABA06737</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>150EEA44-C798-4560-8F1A-0AB3ABA06737</key>
 		<array>
 			<dict>
@@ -34,24 +47,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>A6EE5A4B-B351-4EE4-A9C2-EB744807B2EF</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>150EEA44-C798-4560-8F1A-0AB3ABA06737</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>D7D35E34-B843-43B1-997D-C8BA67F0F474</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>150EEA44-C798-4560-8F1A-0AB3ABA06737</string>
+				<string>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -116,6 +116,8 @@
 				<integer>1</integer>
 				<key>escaping</key>
 				<integer>102</integer>
+				<key>keyword</key>
+				<string>ask</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -135,7 +137,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string></string>
+				<string>make web submission online</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -151,33 +153,26 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
-				<integer>0</integer>
-				<key>hotmod</key>
-				<integer>0</integer>
-				<key>hotstring</key>
-				<string></string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
+				<key>json</key>
+				<string>{
+  "alfredworkflow" : {
+    "arg" : "{query}",
+    "config" : {
+      "title" : "",
+      "runningsubtext" : "",
+      "subtext" : ""
+    },
+    "variables" : {
+    }
+  }
+}</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
+			<string>alfred.workflow.utility.json</string>
 			<key>uid</key>
-			<string>A6EE5A4B-B351-4EE4-A9C2-EB744807B2EF</string>
+			<string>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -208,7 +203,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/workflow/ask-create-share.csv</string>
+				<string>https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/ask-create-share.csv</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -224,12 +219,19 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>50</integer>
+		</dict>
 		<key>150EEA44-C798-4560-8F1A-0AB3ABA06737</key>
 		<dict>
 			<key>note</key>
 			<string>search through web submissions</string>
 			<key>xpos</key>
-			<integer>230</integer>
+			<integer>310</integer>
 			<key>ypos</key>
 			<integer>20</integer>
 		</dict>
@@ -238,23 +240,16 @@
 			<key>note</key>
 			<string>add more submissions to search over</string>
 			<key>xpos</key>
-			<integer>30</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>320</integer>
+			<integer>200</integer>
 		</dict>
 		<key>9C6C85EC-6FB7-46B9-809F-F773E42FC217</key>
 		<dict>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>510</integer>
 			<key>ypos</key>
 			<integer>20</integer>
-		</dict>
-		<key>A6EE5A4B-B351-4EE4-A9C2-EB744807B2EF</key>
-		<dict>
-			<key>xpos</key>
-			<integer>40</integer>
-			<key>ypos</key>
-			<integer>150</integer>
 		</dict>
 		<key>D7D35E34-B843-43B1-997D-C8BA67F0F474</key>
 		<dict>
@@ -266,13 +261,13 @@
 		<key>F054925B-E63D-4611-9A90-88C916902F29</key>
 		<dict>
 			<key>xpos</key>
-			<integer>210</integer>
+			<integer>230</integer>
 			<key>ypos</key>
-			<integer>320</integer>
+			<integer>200</integer>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>v1.2</string>
+	<string>2.6.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>
