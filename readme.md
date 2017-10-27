@@ -1,6 +1,6 @@
 # Create web submissions on the internet [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 
-<img src="media/demo.gif" width=400" alt="img">
+<img src="media/demo.gif" width=600" alt="img">
 
 ## Description 📕
 It is a really fast filter for various online web submissions that you can do.
