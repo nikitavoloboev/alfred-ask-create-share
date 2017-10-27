@@ -1,20 +1,9 @@
-<h1 align="center"> Create web submissions on the internet </h1>
+# Create web submissions on the internet [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 
-<div align="center">
-<a href="https://www.patreon.com/nikitavoloboev">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/nikitavoloboev/alfred-ask-create-share/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
+<img src="media/demo.gif" width=400" alt="img">
 
 
-<p align="center"><img src="media/demo.gif" alt="img" width="600"></p>
-
-
-<h1 align="center"> Description 📕</h1>
-
+## Description 📕
 It is a really fast filter for various online web submissions that you can do.
 
 You can filter submissions by using various prefixes. 
@@ -29,18 +18,15 @@ You can filter submissions by using various prefixes.
 | d:  |  create google docs, sheets, slide or form |
 
 
-<p align="center"><img src="http://i.imgur.com/QhOiptU.png" alt="img" width="600"></p>
+<img src="http://i.imgur.com/QhOiptU.png" width="500" alt="img">
 
-<h1 align="center"> Install 💎</h1>
-
+## Install 💎
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest).
 
-<h1 align="center"> Contributing 💚</h1>
-
+## Contribute 💜
 You can [edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/ask-create-share.csv) and add more web submissions to add to the workflow.
 
 It has a simple structure of argument, followed by comma and then what website is going to be opened.
 
-<h1 align="center"> Thanks 🍀</h1>
-
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💛 
+## Thanks 🍀
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💚
