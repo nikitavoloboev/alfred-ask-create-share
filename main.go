@@ -7,8 +7,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"git.deanishe.net/deanishe/awgo"
-	"git.deanishe.net/deanishe/awgo/update"
+	"github.com/deanishe/awgo"
+	"github.com/deanishe/awgo/update"
 	"github.com/docopt/docopt-go"
 )
 
@@ -112,7 +112,7 @@ func run() {
 		wf.Filter(query)
 	}
 
-	wf.WarnEmpty("no matching items", "try a different query?")
+	wf.WarnEmpty("No matching items", "Try a different query?")
 	wf.SendFeedback()
 }
 

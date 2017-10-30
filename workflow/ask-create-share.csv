@@ -1,4 +1,5 @@
 s: stack,https://stackoverflow.com/questions/ask/
+r: books,https://www.reddit.com/r/books/submit
 s: unix,https://unix.stackexchange.com/questions/ask
 s: mathematica,http://mathematica.stackexchange.com/questions/ask
 s: world building,http://worldbuilding.stackexchange.com/questions/ask
@@ -192,3 +193,4 @@ r: apple,https://www.reddit.com/r/apple/submit
 s: beer wine and & spirits,https://alcohol.stackexchange.com/questions/ask
 w: youtube,https://www.youtube.com/upload
 r: simulated reality,https://www.reddit.com/r/AWLIAS/submit
+w: lobsters,https://lobste.rs/stories/new
