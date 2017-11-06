@@ -1,4 +1,4 @@
-# Alfred Ask Create Share [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# Alfred Ask Create Share [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-green.svg)](https://www.patreon.com/nikitavoloboev) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > [Alfred](https://www.alfredforum.com/) workflow for creating various Web Submissions (stack exchange, reddit and more)
 
 <img src="media/demo.gif" width="400" alt="img">
