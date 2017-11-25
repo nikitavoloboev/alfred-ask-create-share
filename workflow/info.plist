@@ -64,11 +64,11 @@
 	<key>createdby</key>
 	<string>Nikita Voloboev &lt;nikita.voloboev@icloud.com&gt;</string>
 	<key>description</key>
-	<string>interface to web submissions</string>
+	<string>Interface to web submissions</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>ask - create - share</string>
+	<string>Ask Create Share</string>
 	<key>objects</key>
 	<array>
 		<dict>
