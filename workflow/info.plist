@@ -8,19 +8,6 @@
 	<string>mine</string>
 	<key>connections</key>
 	<dict>
-		<key>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>150EEA44-C798-4560-8F1A-0AB3ABA06737</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>150EEA44-C798-4560-8F1A-0AB3ABA06737</key>
 		<array>
 			<dict>
@@ -51,7 +38,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</string>
+				<string>150EEA44-C798-4560-8F1A-0AB3ABA06737</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -94,7 +81,7 @@
 			<key>config</key>
 			<dict>
 				<key>triggerid</key>
-				<string>askCreateShare</string>
+				<string>ask</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.external</string>
@@ -127,7 +114,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>Loading...</string>
 				<key>script</key>
 				<string>./alfred-ask-create-share search "$1"</string>
 				<key>scriptargtype</key>
@@ -135,9 +122,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string></string>
+				<string>Make web submissions on the Internet</string>
 				<key>title</key>
-				<string>make web submission online</string>
+				<string>Ask</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -153,40 +140,16 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>json</key>
-				<string>{
-  "alfredworkflow" : {
-    "arg" : "{query}",
-    "config" : {
-      "title" : "",
-      "runningsubtext" : "",
-      "subtext" : ""
-    },
-    "variables" : {
-    }
-  }
-}</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.json</string>
-			<key>uid</key>
-			<string>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argumenttype</key>
-				<integer>1</integer>
+				<integer>2</integer>
 				<key>keyword</key>
 				<string>edit submissions</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>edit web submissions</string>
+				<string>Edit web submissions</string>
 				<key>withspace</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
@@ -219,55 +182,48 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>0E494D6C-5E96-41C9-8DA1-DD0C66DE66FE</key>
-		<dict>
-			<key>xpos</key>
-			<integer>210</integer>
-			<key>ypos</key>
-			<integer>50</integer>
-		</dict>
 		<key>150EEA44-C798-4560-8F1A-0AB3ABA06737</key>
 		<dict>
 			<key>note</key>
-			<string>search through web submissions</string>
+			<string>Search through web submissions</string>
 			<key>xpos</key>
-			<integer>310</integer>
+			<integer>190</integer>
 			<key>ypos</key>
-			<integer>20</integer>
+			<integer>40</integer>
 		</dict>
 		<key>78BD8647-1014-45B5-BA89-4B17859D258E</key>
 		<dict>
 			<key>note</key>
-			<string>add more submissions to search over</string>
+			<string>Add more submissions to search over</string>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>190</integer>
 			<key>ypos</key>
 			<integer>200</integer>
 		</dict>
 		<key>9C6C85EC-6FB7-46B9-809F-F773E42FC217</key>
 		<dict>
 			<key>xpos</key>
-			<integer>510</integer>
+			<integer>360</integer>
 			<key>ypos</key>
-			<integer>20</integer>
+			<integer>40</integer>
 		</dict>
 		<key>D7D35E34-B843-43B1-997D-C8BA67F0F474</key>
 		<dict>
 			<key>xpos</key>
-			<integer>40</integer>
-			<key>ypos</key>
 			<integer>20</integer>
+			<key>ypos</key>
+			<integer>40</integer>
 		</dict>
 		<key>F054925B-E63D-4611-9A90-88C916902F29</key>
 		<dict>
 			<key>xpos</key>
-			<integer>230</integer>
+			<integer>370</integer>
 			<key>ypos</key>
 			<integer>200</integer>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2.6.1</string>
+	<string>2.6.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>

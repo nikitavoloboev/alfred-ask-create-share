@@ -17,7 +17,7 @@ const updateJobName = "checkForUpdate"
 
 var usage = `alfred-ask-create-share [search|check] [<query>]
 
-Open web submissions from Alfred
+Open web submissions from Alfred.
 
 Usage:
 	alfred-ask-create-share search [<query>]
@@ -29,7 +29,7 @@ Options:
 `
 
 var (
-	// icons
+	// Icons
 	iconAvailable = &aw.Icon{Value: "icons/update.png"}
 	redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
 	githubIcon    = &aw.Icon{Value: "icons/github.png"}
@@ -46,22 +46,21 @@ func init() {
 }
 
 func run() {
-
 	// Pass wf.Args() to docopt because our update logic relies on
 	// AwGo's magic actions.
 	args, _ := docopt.Parse(usage, wf.Args(), true, wf.Version(), false, true)
 
-	// alternate action: get available releases from remote
+	// Alternate action: get available releases from remote
 	if args["check"] != false {
 		wf.TextErrors = true
-		log.Println("checking for updates...")
+		log.Println("Checking for updates...")
 		if err := wf.CheckForUpdate(); err != nil {
 			wf.FatalError(err)
 		}
 		return
 	}
 
-	// _script filter
+	// Script filter
 	var query string
 	if args["<query>"] != nil {
 		query = args["<query>"].(string)
@@ -69,13 +68,13 @@ func run() {
 
 	log.Printf("query=%s", query)
 
-	// call self with "check" command if an update is due and a
+	// Call self with "check" command if an update is due and a
 	// check job isn't already running.
 	if wf.UpdateCheckDue() && !aw.IsRunning(updateJobName) {
-		log.Println("running update check in background...")
+		log.Println("Running update check in background...")
 		cmd := exec.Command("./alfred-ask-create-share", "check")
 		if err := aw.RunInBackground(updateJobName, cmd); err != nil {
-			log.Printf("error starting update check: %s", err)
+			log.Printf("Error starting update check: %s", err)
 		}
 	}
 
@@ -116,11 +115,11 @@ func run() {
 	wf.SendFeedback()
 }
 
-// parses CSV of links and arguments
+// parseCSV parses CSV for links and arguments
 func parseCSV() map[string]string {
 	var err error
 
-	// load values from file to a hash map
+	// Load values from file to a hash map
 	f, err := os.Open("ask-create-share.csv")
 	if err != nil {
 		panic(err)
@@ -134,7 +133,7 @@ func parseCSV() map[string]string {
 		log.Fatal(err)
 	}
 
-	// holds user's search arguments and an appropriate search URL
+	// Holds user's search arguments and an appropriate search URL
 	links := make(map[string]string)
 
 	for _, record := range records {
