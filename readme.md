@@ -27,7 +27,7 @@ You can [edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-
 It has a simple structure of argument, followed by comma and then what website is going to be opened.
 
 ## Thank you 💜
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
 
 ## License
 MIT © [Nikita Voloboev](https://www.nikitavoloboev.xyz)
