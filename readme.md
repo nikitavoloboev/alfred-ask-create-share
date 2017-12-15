@@ -20,11 +20,11 @@ You can filter submissions by using various prefixes.
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest).
 
 ## Contributing
+[Suggestions](https://github.com/nikitavoloboev/alfred-ask-create-share/issues) and pull requests are highly encouraged!
+
 You can [edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/ask-create-share.csv) and add more web submissions to add to the workflow.
 
 It has a simple structure of argument, followed by comma and then what website is going to be opened.
-
-You can also look into [issues](https://github.com/nikitavoloboev/alfred-ask-create-share/issues) and see if anything sparks your interest or [add ideas of your own](https://github.com/nikitavoloboev/alfred-ask-create-share/issues/new).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 

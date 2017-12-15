@@ -5,7 +5,7 @@
 	<key>bundleid</key>
 	<string>nikivi.ask.create.share</string>
 	<key>category</key>
-	<string>mine</string>
+	<string>Mine</string>
 	<key>connections</key>
 	<dict>
 		<key>150EEA44-C798-4560-8F1A-0AB3ABA06737</key>
