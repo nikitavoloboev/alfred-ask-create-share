@@ -26,6 +26,13 @@ You can [edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-
 
 It has a simple structure of argument, followed by comma and then what website is going to be opened.
 
+## Developing
+If you want to add features and things to the workflow. I advise you to install [this Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) by running:
+
+`go get -u github.com/jason0x43/go-alfred/alfred`
+
+You can then make the changes to the code and run `alfred build` inside this repo to build the workflow to `workflow` directory. You can then use the built binary from Alfred script filters.
+
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
 
