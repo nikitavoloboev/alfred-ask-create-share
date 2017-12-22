@@ -14,7 +14,7 @@ You can filter submissions by using various prefixes.
 |  w: | All other websites like creating new hacker news thread or new codepen|
 | d:  |  Create google docs, sheets, slide or form |
 
-<img src="http://i.imgur.com/QhOiptU.png" width="400" alt="img">
+<img src="https://i.imgur.com/hZe2AUY.png" width="400" alt="img">
 
 ## Installing
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest).
