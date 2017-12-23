@@ -49,7 +49,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Nikita Voloboev &lt;nikita.voloboev@icloud.com&gt;</string>
+	<string>Nikita Voloboev</string>
 	<key>description</key>
 	<string>Interface to web submissions</string>
 	<key>disabled</key>
@@ -223,7 +223,7 @@
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2.6.2</string>
+	<string>2.6.3</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>
