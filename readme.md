@@ -16,7 +16,7 @@ You can filter submissions by using various prefixes.
 
 <img src="https://i.imgur.com/hZe2AUY.png" width="400" alt="img">
 
-## Installing
+## Install
 Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/alfred-ask-create-share/releases/latest).
 
 ## Contributing
