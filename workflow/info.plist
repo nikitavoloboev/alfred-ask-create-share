@@ -179,7 +179,9 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Details on how to effectively use this workflow are found in the GitHub repository attached to this workflow.
+
+Post any issues and feature requests you have there. 💜</string>
 	<key>uidata</key>
 	<dict>
 		<key>150EEA44-C798-4560-8F1A-0AB3ABA06737</key>
