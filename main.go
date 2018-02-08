@@ -1,147 +1,91 @@
 package main
 
 import (
-	"encoding/csv"
-	"log"
-	"os"
-	"os/exec"
-	"strings"
+	"fmt"
 
+	"github.com/alecthomas/kingpin"
 	"github.com/deanishe/awgo"
 	"github.com/deanishe/awgo/update"
-	"github.com/docopt/docopt-go"
 )
 
-// Name of the background job that checks for updates
-const updateJobName = "checkForUpdate"
+// Defaults for Kingpin flags
+const (
+	defaultMaxResults = "100"
+)
 
-var usage = `alfred-ask-create-share [search|check] [<query>]
-
-Open web submissions from Alfred.
-
-Usage:
-	alfred-ask-create-share search [<query>]
-    alfred-ask-create-share check
-    alfred-ask-create-share -h
-
-Options:
-    -h, --help    Show this message and exit.
-`
-
+// Icons
 var (
-	// Icons
 	iconAvailable = &aw.Icon{Value: "icons/update.png"}
 	redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
 	githubIcon    = &aw.Icon{Value: "icons/github.png"}
 	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
 	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
 	docIcon       = &aw.Icon{Value: "icons/doc.png"}
-
-	repo = "nikitavoloboev/alfred-ask-create-share"
-	wf   *aw.Workflow
 )
 
+var (
+	// Kingpin and script options
+	app *kingpin.Application
+
+	// Application commands
+	searchCmd *kingpin.CmdClause
+	updateCmd *kingpin.CmdClause
+	testCmd   *kingpin.CmdClause
+
+	// Script options (populated by Kingpin application)
+	query string
+
+	repo = "nikitavoloboev/alfred-ask-create-share"
+
+	// Workflow stuff
+	wf *aw.Workflow
+)
+
+// Mostly sets up kingpin commands
 func init() {
-	wf = aw.New(update.GitHub(repo))
+	wf = aw.New(update.GitHub(repo), aw.HelpURL(repo+"/issues"))
+
+	app = kingpin.New("ask", "Open web submissions.")
+
+	// Update command
+	updateCmd = app.Command("update", "Check for new workflow version.").Alias("u")
+
+	// Commands using query
+	searchCmd = app.Command("search", "Search web submissions.").Alias("s")
+
+	// Common options
+	for _, cmd := range []*kingpin.CmdClause{
+		searchCmd,
+	} {
+		cmd.Flag("query", "Search query.").Short('q').StringVar(&query)
+	}
 }
 
 func run() {
-	// Pass wf.Args() to docopt because our update logic relies on
-	// AwGo's magic actions.
-	args, _ := docopt.Parse(usage, wf.Args(), true, wf.Version(), false, true)
-
-	// Alternate action: get available releases from remote
-	if args["check"] != false {
-		wf.TextErrors = true
-		log.Println("Checking for updates...")
-		if err := wf.CheckForUpdate(); err != nil {
-			wf.FatalError(err)
-		}
-		return
-	}
-
-	// Script filter
-	var query string
-	if args["<query>"] != nil {
-		query = args["<query>"].(string)
-	}
-
-	log.Printf("query=%s", query)
-
-	// Call self with "check" command if an update is due and a
-	// check job isn't already running.
-	if wf.UpdateCheckDue() && !aw.IsRunning(updateJobName) {
-		log.Println("Running update check in background...")
-		cmd := exec.Command("./alfred-ask-create-share", "check")
-		if err := aw.RunInBackground(updateJobName, cmd); err != nil {
-			log.Printf("Error starting update check: %s", err)
-		}
-	}
-
-	if query == "" { // Only show update status if query is empty
-		// Send update status to Alfred
-		if wf.UpdateAvailable() {
-			wf.NewItem("Update Available!").
-				Subtitle("↩ to install").
-				Autocomplete("workflow:update").
-				Valid(false).
-				Icon(iconAvailable)
-		}
-	}
-
-	links := parseCSV()
-
-	for key, value := range links {
-		if strings.Contains(key, "r: ") {
-			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(redditIcon)
-		} else if strings.Contains(key, "s: ") {
-			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(stackIcon)
-		} else if strings.Contains(key, "g: ") {
-			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(githubIcon)
-		} else if strings.Contains(key, "f: ") {
-			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(forumsIcon)
-		} else if strings.Contains(key, "d: ") {
-			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key).Icon(docIcon)
-		} else {
-			wf.NewItem(key).Valid(true).UID(key).Var("URL", value).Var("ARG", key)
-		}
-	}
-
-	if query != "" {
-		wf.Filter(query)
-	}
-
-	wf.WarnEmpty("No matching items", "Try a different query?")
-	wf.SendFeedback()
-}
-
-// parseCSV parses CSV for links and arguments
-func parseCSV() map[string]string {
 	var err error
 
-	// Load values from file to a hash map
-	f, err := os.Open("ask-create-share.csv")
+	cmd, err := app.Parse(wf.Args())
 	if err != nil {
-		panic(err)
+		wf.FatalError(err)
 	}
-	defer f.Close()
 
-	r := csv.NewReader(f)
+	switch cmd {
+	case searchCmd.FullCommand():
+		err = doSearch()
+	case updateCmd.FullCommand():
+		err = doUpdate()
+	default:
+		err = fmt.Errorf("Uknown command: %s", cmd)
+	}
 
-	records, err := r.ReadAll()
+	// Check for update
+	if err == nil && cmd != updateCmd.FullCommand() {
+		err = checkForUpdate()
+	}
+
 	if err != nil {
-		log.Fatal(err)
+		wf.FatalError(err)
 	}
-
-	// Holds user's search arguments and an appropriate search URL
-	links := make(map[string]string)
-
-	for _, record := range records {
-		links[record[0]] = record[1]
-	}
-
-	return links
-
 }
 
 func main() {
