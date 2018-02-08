@@ -13,26 +13,22 @@ const (
 	defaultMaxResults = "100"
 )
 
-// Icons
 var (
-	iconAvailable = &aw.Icon{Value: "icons/update.png"}
-	redditIcon    = &aw.Icon{Value: "icons/reddit.png"}
-	githubIcon    = &aw.Icon{Value: "icons/github.png"}
-	forumsIcon    = &aw.Icon{Value: "icons/forums.png"}
-	stackIcon     = &aw.Icon{Value: "icons/stack.png"}
-	docIcon       = &aw.Icon{Value: "icons/doc.png"}
-)
+	// Icons
+	updateAvailable = &aw.Icon{Value: "icons/update-available.png"}
+	redditIcon      = &aw.Icon{Value: "icons/reddit.png"}
+	githubIcon      = &aw.Icon{Value: "icons/github.png"}
+	forumsIcon      = &aw.Icon{Value: "icons/forums.png"}
+	stackIcon       = &aw.Icon{Value: "icons/stack.png"}
+	docIcon         = &aw.Icon{Value: "icons/doc.png"}
 
-var (
 	// Kingpin and script options
 	app *kingpin.Application
 
 	// Application commands
 	searchCmd *kingpin.CmdClause
 	updateCmd *kingpin.CmdClause
-	testCmd   *kingpin.CmdClause
 
-	// Script options (populated by Kingpin application)
 	query string
 
 	repo = "nikitavoloboev/alfred-ask-create-share"
@@ -40,6 +36,8 @@ var (
 	// Workflow stuff
 	wf *aw.Workflow
 )
+
+var ()
 
 // Mostly sets up kingpin commands
 func init() {
