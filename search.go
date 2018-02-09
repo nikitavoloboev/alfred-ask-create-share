@@ -45,7 +45,7 @@ func parseCSV() map[string]string {
 	var err error
 
 	// Load values from file to a hash map
-	f, err := os.Open("ask-create-share.csv")
+	f, err := os.Open("submissions.csv")
 	if err != nil {
 		panic(err)
 	}
