@@ -186,7 +186,7 @@ d: New google sheet,https://docs.google.com/spreadsheets/create
 d: New google presentation,https://docs.google.com/presentation/create
 g: New gist,https://gist.GitHub.com
 g: New GitHub repo,https://github.com/new
-f: Alfred help,https://www.alfredforum.com/forum/2-discussion-help/?do=add
+f: Alfred help/discussion,https://www.alfredforum.com/forum/2-discussion-help/?do=add
 f: Alfred share workflow,https://www.alfredforum.com/forum/3-share-your-workflows/?do=add
 f: Alfred workflow help,https://www.alfredforum.com/forum/13-workflow-help-questions/?do=add
 f: Alfred bug report,https://www.alfredforum.com/forum/6-bug-reports/?do=add
