@@ -22,7 +22,7 @@ Download the workflow from [GitHub releases](https://github.com/nikitavoloboev/a
 ## Contributing
 [Suggestions](../../issues/) and pull requests are highly encouraged!
 
-You can [edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/ask-create-share.csv) and add more web submissions to add to the workflow.
+You can [edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/submissions.csv) and add more web submissions to add to the workflow.
 
 It has a simple structure of argument, followed by comma and then what website is going to be opened.
 
