@@ -14,7 +14,8 @@ You can filter submissions by using various prefixes.
 | w: | All other websites like creating new hacker news thread or new codepen|
 | d: |  Create google docs, sheets, slide or form |
 
-<img src="https://i.imgur.com/hZe2AUY.png" width="400" alt="img">
+How it looks:
+<img src="https://i.imgur.com/hZe2AUY.png" width="500" alt="img">
 
 ## Install
 Download the workflow from [GitHub releases](../../releases/latest).
