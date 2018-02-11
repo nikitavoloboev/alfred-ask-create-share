@@ -1,7 +1,7 @@
 # Contributing
 Thank you for wanting to make the workflow better. You can:
 - Make suggestions and file bugs in [Issues](../../issues/).
-- Fix issues and add features to the workflow with [Pull Requests](../../pulls/).
+- Fix issues and add features with [Pull Requests](../../pulls/).
 - [Edit the CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/submissions.csv) and add more web submissions to the workflow. It has a simple structure of argument, followed by comma and then what website is going to be opened.
 
 ## Dependencies
