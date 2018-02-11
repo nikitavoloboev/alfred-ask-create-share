@@ -20,8 +20,6 @@ You can filter submissions by using various prefixes.
 Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
-You can extend the list of websites that the workflow searches over by editing [this CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/submissions.csv). It has a simple structure of argument, followed by comma and then what website is going to be opened.
-
 For more information see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Thank you 💜
