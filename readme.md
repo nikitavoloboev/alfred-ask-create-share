@@ -14,8 +14,9 @@ You can filter submissions by using various prefixes.
 | w: | All other websites like creating new hacker news thread or new codepen|
 | d: |  Create google docs, sheets, slide or form |
 
-How it looks:
 <img src="https://i.imgur.com/hZe2AUY.png" width="500" alt="img">
+
+You can extend the list of websites that the workflow searches over by editing [this CSV file](https://github.com/nikitavoloboev/alfred-ask-create-share/edit/master/workflow/submissions.csv). It has a simple structure of argument, followed by comma and then what website is going to be opened.
 
 ## Install
 Download the workflow from [GitHub releases](../../releases/latest).
