@@ -180,12 +180,12 @@ r: Reverse engineering,https://www.reddit.com/r/ReverseEngineering/submit
 r: Future pop music,https://www.reddit.com/r/futurepopmusic/submit
 r: Math pics,https://www.reddit.com/r/mathpics/submit
 r: Linux,https://www.reddit.com/r/linux/submit
-d: New google doc,https://docs.google.com/document/create
-d: New google form,https://docs.google.com/forms/create
-d: New google sheet,https://docs.google.com/spreadsheets/create
-d: New google presentation,https://docs.google.com/presentation/create
-g: New gist,https://gist.GitHub.com
-g: New GitHub repo,https://github.com/new
+d: Google doc,https://docs.google.com/document/create
+d: Google form,https://docs.google.com/forms/create
+d: Google sheet,https://docs.google.com/spreadsheets/create
+d: Google presentation,https://docs.google.com/presentation/create
+g: GitHub gist,https://gist.GitHub.com
+g: GitHub repo,https://github.com/new
 f: Alfred help/discussion,https://www.alfredforum.com/forum/2-discussion-help/?do=add
 f: Alfred share workflow,https://www.alfredforum.com/forum/3-share-your-workflows/?do=add
 f: Alfred workflow help,https://www.alfredforum.com/forum/13-workflow-help-questions/?do=add
