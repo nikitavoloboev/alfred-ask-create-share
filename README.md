@@ -20,7 +20,7 @@ You can filter submissions by using various prefixes.
 Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [contribution guidelines](CONTRIBUTING.md#contributing).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
