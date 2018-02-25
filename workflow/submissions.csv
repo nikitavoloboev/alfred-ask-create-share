@@ -1,199 +1,199 @@
-s: Stack,https://stackoverflow.com/questions/ask/
-r: iOS,https://www.reddit.com/r/ios/submit
-r: Books,https://www.reddit.com/r/books/submit
-s: Unix,https://unix.stackexchange.com/questions/ask
-s: Mathematica,http://mathematica.stackexchange.com/questions/ask
-s: World building,http://worldbuilding.stackexchange.com/questions/ask
-s: Magento,http://magento.stackexchange.com/questions/ask
-s: Geographic information systems,https://gis.stackexchange.com/questions/ask
-r: lucid dreaming,https://www.reddit.com/r/LucidDreaming/submit?selftext=true
-s: Code review,http://codereview.stackexchange.com/questions/ask
-s: Physics,http://physics.stackexchange.com/questions/ask
-s: Tor,http://tor.stackexchange.com/questions/ask
-s: Signal processing,https://dsp.stackexchange.com/questions/ask
-s: Expression engine,http://expressionengine.stackexchange.com/questions/ask
-s: Writers,http://writers.stackexchange.com/questions/ask
-s: Pro webmasters,http://webmasters.stackexchange.com/questions/ask
-s: Music,http://music.stackexchange.com/questions/ask
-s: Raspberry pi,http://raspberrypi.stackexchange.com/questions/ask
-s: Travel,http://travel.stackexchange.com/questions/ask
-s: Biblical hermeneutics,https://hermeneutics.stackexchange.com/questions/ask
-s: Politics,http://politics.stackexchange.com/questions/ask
-s: Movies,http://movies.stackexchange.com/questions/ask
-s: Math overflow,http://mathoverflow.net/questions/ask
-s: Meta,http://meta.stackexchange.com/questions/ask
-s: Database administrators,https://dba.stackexchange.com/questions/ask
-s: Cognitive sciences,https://cogsci.stackexchange.com/questions/ask
-s: Theoretical computer science,http://cstheory.stackexchange.com/questions/ask
-s: Personal finance & money,http://money.stackexchange.com/questions/ask
-s: Sound design,https://sound.stackexchange.com/questions/ask
-s: Sustainable living,https://sustainability.stackexchange.com/questions/ask
-s: Computer graphics,http://computergraphics.stackexchange.com/questions/ask
-s: Sports,http://sports.stackexchange.com/questions/ask
-s: Expatriates,https://expatriates.stackexchange.com/questions/ask
-s: Physical fitness,http://fitness.stackexchange.com/questions/ask
-s: Software quality assurance & testing,https://sqa.stackexchange.com/questions/ask
-s: English language & usage,https://english.stackexchange.com/questions/ask
-s: Gamedev,https://gamedev.stackexchange.com/questions/ask
-s: Reverse engineering,https://reverseengineering.stackexchange.com/questions/ask
-s: Great outdoors,https://outdoors.stackexchange.com/questions/ask
-s: Software engineering,https://softwareengineering.stackexchange.com/questions/ask
-s: Electrical engineering,http://electronics.stackexchange.com/questions/ask?title=
-s: History,http://history.stackexchange.com/questions/ask
-s: Linguistics,https://linguistics.stackexchange.com/questions/ask
-s: Spanish language,http://spanish.stackexchange.com/questions/ask
-s: Amateur radio,https://ham.stackexchange.com/questions/ask
-s: Philosophy,https://philosophy.stackexchange.com/questions/ask
-s: Super user,http://superuser.com/questions/ask
-s: Martial arts,http://martialarts.stackexchange.com/questions/ask
-s: Quantitative finance,https://quant.stackexchange.com/questions/ask
-s: Space exploration,https://space.stackexchange.com/questions/ask
-s: Software recommendations,https://softwarerecs.stackexchange.com/questions/ask
-s: Seasoned advice,https://cooking.stackexchange.com/questions/ask
-s: Italian language,https://italian.stackexchange.com/
-s: Stack apps,https://stackapps.com/questions/ask#
-s: Cross validated,https://stats.stackexchange.com/questions/ask
-s: Home improvement,https://diy.stackexchange.com/questions/ask
-s: Motor vehicle maintenance & repair,https://mechanics.stackexchange.com/questions/ask
-s: Ebooks,https://ebooks.stackexchange.com/questions/ask
-s: Information security,https://security.stackexchange.com/questions/ask
-s: Pets,https://pets.stackexchange.com/questions/ask
-s: Math educators,http://matheducators.stackexchange.com/questions/ask
-s: Personal productivity,https://productivity.stackexchange.com/questions/ask
-s: English language learners,https://ell.stackexchange.com/questions/ask
-s: Open data,https://opendata.stackexchange.com/questions/ask
-s: Garderning & landscaping,https://gardening.stackexchange.com/questions/ask
-s: Salesforce,https://salesforce.stackexchange.com/questions/ask
-s: Science fiction & fantasy,https://scifi.stackexchange.com/questions/ask
-s: Freelancing,http://freelancing.stackexchange.com/questions/ask
-s: Photography,https://photo.stackexchange.com/questions/ask
-s: Wordpress development,https://wordpress.stackexchange.com/questions/ask
-s: Gaming,https://gaming.stackexchange.com/questions/ask
-s: Anime & manga,http://anime.stackexchange.com/questions/ask
-s: Parenting,https://parenting.stackexchange.com/questions/ask
-s: Server fault,http://serverfault.com/questions/ask?title=
-s: Computer science,https://cs.stackexchange.com/questions/ask
-s: Skeptics,https://skeptics.stackexchange.com/questions/ask
-s: Robotics,https://robotics.stackexchange.com/questions/ask
-s: Role playing games,https://rpg.stackexchange.com/questions/ask
-s: Genealogy & family history,https://genealogy.stackexchange.com/questions/ask
-s: Biology,https://biology.stackexchange.com/questions/ask
-s: French language,https://french.stackexchange.com/questions/ask
-s: Cryptography,https://crypto.stackexchange.com/questions/ask
-s: Japanese language,https://japanese.stackexchange.com/questions/ask
-s: Workplace,https://workplace.stackexchange.com/questions/ask
-s: Homebrewing,https://homebrew.stackexchange.com/questions/ask
-s: Russian language,https://russian.stackexchange.com/questions/ask
-s: Tex,https://tex.stackexchange.com/questions/ask
-s: Chinese,http://chinese.stackexchange.com/questions/ask
-s: Computational science,https://scicomp.stackexchange.com/questions/ask
-s: Video production,https://video.stackexchange.com/questions/ask
-s: Arduino,http://arduino.stackexchange.com/questions/ask
-s: Bicycles,https://bicycles.stackexchange.com/questions/ask
-s: Poker,https://poker.stackexchange.com/questions/ask
-s: Web applications,https://webapps.stackexchange.com/questions/ask
-s: Board & card games,https://boardgames.stackexchange.com/questions/ask
-s: Bitcoin,https://bitcoin.stackexchange.com/questions/ask
-s: Android enthusiasts,https://android.stackexchange.com/questions/ask
-s: Astronomy,https://astronomy.stackexchange.com/questions/ask
-s: Blender,https://blender.stackexchange.com/questions/ask
-s: Buddhism,https://buddhism.stackexchange.com/questions/ask
-s: Sharepoint,https://sharepoint.stackexchange.com/questions/ask
-s: Network engineering,https://networkengineering.stackexchange.com/questions/ask
-s: Ask different,https://apple.stackexchange.com/questions/ask
-s: Data science,https://datascience.stackexchange.com/questions/ask
-s: Ask patents,https://patents.stackexchange.com/questions/ask
-s: Mathematics,http://math.stackexchange.com/questions/ask?title=
-s: Programming puzzles & code golf,https://codegolf.stackexchange.com/questions/ask
-s: Lego brick,https://bricks.stackexchange.com/questions/ask
-s: Drupal,https://drupal.stackexchange.com/questions/ask
-s: Ask ubuntu,http://askubuntu.com/questions/ask
-s: Chess,https://chess.stackexchange.com/questions/ask
-s: Academia,https://academia.stackexchange.com/questions/ask
-s: Unix & linux,https://unix.stackexchange.com/questions/ask
-s: Graphic design,https://graphicdesign.stackexchange.com/questions/ask
-s: Chemistry,https://chemistry.stackexchange.com/questions/ask
-s: German language,https://german.stackexchange.com/questions/ask
-s: Islam,https://islam.stackexchange.com/questions/ask
-s: Project management,https://pm.stackexchange.com/questions/ask
-s: Aviation,https://aviation.stackexchange.com/questions/ask
-w: Goodreads quote ,https://www.goodreads.com/quotes/new
-w: Telegraph ,http://telegra.ph
-w: Product Hunt,https://www.producthunt.com/posts/new
-w: Codepen,http://codepen.io/pen/
-w: Hacker news,https://news.ycombinator.com/submit
-r: Anki,https://www.reddit.com/r/Anki/
-r: Vegan,https://www.reddit.com/r/vegan/submit
-r: Cool GitHub projects,https://www.reddit.com/r/coolgithubprojects/submit
-r: Enchancement,https://www.reddit.com/r/Enhancement/submit?selftext=true
-r: Vim,https://www.reddit.com/r/vim/submit
-r: Get disciplined,https://www.reddit.com/r/getdisciplined/submit?selftext=true
-r: Programming,https://www.reddit.com/r/programming/submit
-r: Haskell,https://www.reddit.com/r/haskell/submit
-r: Golang,https://www.reddit.com/r/golang/submit
-r: Vim magic,https://www.reddit.com/r/vim_magic/submit
-r: LSD,https://www.reddit.com/r/LSD/submit
-r: DMT,https://www.reddit.com/r/DMT/submit
-r: Gamedev,https://www.reddit.com/r/gamedev/submit
-r: Reinforcement learning,https://www.reddit.com/r/reinforcementlearning/
-r: Electrical engineering,https://www.reddit.com/r/ECE/submit
-r: Swift,https://www.reddit.com/r/swift/submit
-r: Experimental music,https://www.reddit.com/r/experimentalmusic/submit
-r: Mac apps,https://www.reddit.com/r/macapps/submit
-r: Front end,https://www.reddit.com/r/Frontend/submit
-r: Web design,https://www.reddit.com/r/web_design/submit
-r: Learn machine learning,https://www.reddit.com/r/learnmachinelearning/submit
-r: Ml questions,https://www.reddit.com/r/MLQuestions/submit
-r: MacOS,https://www.reddit.com/r/MacOS/submit
-r: Privacy,https://www.reddit.com/r/privacy/submit
-r: Android,https://www.reddit.com/r/Android/submit
-r: Learn javascript,https://www.reddit.com/r/learnjavascript/submit
-r: ReactJS,https://www.reddit.com/r/reactjs/submit
-r: Alfred,https://www.reddit.com/r/Alfred/submit
-r: Neural networks,https://www.reddit.com/r/neuralnetworks/submit
-r: Netsec,https://www.reddit.com/r/netsec/submit
-r: Learn programming,https://www.reddit.com/r/learnprogramming/submit?selftext=true
-r: Python,https://www.reddit.com/r/Python/submit
-r: Future beats,https://www.reddit.com/r/futurebeats/submit
-r: Meditation,https://www.reddit.com/r/Meditation/submit
-r: Rational psychonaut,https://www.reddit.com/r/RationalPsychonaut/submit
-r: Webdev,https://www.reddit.com/r/webdev/submit
-r: Physics,https://www.reddit.com/r/Physics/submit
-r: Apple,https://www.reddit.com/r/apple/submit
-r: Docker,https://www.reddit.com/r/docker/submit
-r: Math,https://www.reddit.com/r/math/submit
-r: Computer vision,https://www.reddit.com/r/computervision/submit
-r: Machine learning,https://www.reddit.com/r/MachineLearning/submit
-r: Nootropics,https://www.reddit.com/r/Nootropics/submit
-r: Probability theory,https://www.reddit.com/r/probabilitytheory/submit
-r: Statistics,https://www.reddit.com/r/statistics/submit
-r: Rails,https://www.reddit.com/r/rails/submit
-r: Listen to this,https://www.reddit.com/r/listentothis/submit
-r: Programmer TIL,https://www.reddit.com/r/ProgrammerTIL/submit?selftext=true
-r: Node,https://www.reddit.com/r/node/submit
-r: Health,https://www.reddit.com/r/Health/submit
-r: Psychonaut,https://www.reddit.com/r/Psychonaut/submit
-r: Sysadmin,https://www.reddit.com/r/sysadmin/submit
-r: IOS programming,https://www.reddit.com/r/iOSProgramming/submit
-r: Askreddit,https://www.reddit.com/r/AskReddit/submit?selftext=true
-r: Osx,https://www.reddit.com/r/osx/submit
-r: Reverse engineering,https://www.reddit.com/r/ReverseEngineering/submit
-r: Future pop music,https://www.reddit.com/r/futurepopmusic/submit
-r: Math pics,https://www.reddit.com/r/mathpics/submit
-r: Linux,https://www.reddit.com/r/linux/submit
 d: Google doc,https://docs.google.com/document/create
 d: Google form,https://docs.google.com/forms/create
-d: Google sheet,https://docs.google.com/spreadsheets/create
 d: Google presentation,https://docs.google.com/presentation/create
-g: GitHub gist,https://gist.GitHub.com
-g: GitHub repo,https://github.com/new
+d: Google sheet,https://docs.google.com/spreadsheets/create
+f: Alfred bug report,https://www.alfredforum.com/forum/6-bug-reports/?do=add
+f: Alfred feature suggestion,https://www.alfredforum.com/forum/5-alfred-feature-suggestions/?do=add
 f: Alfred help/discussion,https://www.alfredforum.com/forum/2-discussion-help/?do=add
 f: Alfred share workflow,https://www.alfredforum.com/forum/3-share-your-workflows/?do=add
 f: Alfred workflow help,https://www.alfredforum.com/forum/13-workflow-help-questions/?do=add
-f: Alfred bug report,https://www.alfredforum.com/forum/6-bug-reports/?do=add
-f: Alfred feature suggestion,https://www.alfredforum.com/forum/5-alfred-feature-suggestions/?do=add
+g: GitHub gist,https://gist.GitHub.com
+g: GitHub repo,https://github.com/new
+r: Alfred,https://www.reddit.com/r/Alfred/submit
+r: Android,https://www.reddit.com/r/Android/submit
+r: Anki,https://www.reddit.com/r/Anki/
 r: Apple,https://www.reddit.com/r/apple/submit
-s: Beer wine and & spirits,https://alcohol.stackexchange.com/questions/ask
-w: Youtube,https://www.youtube.com/upload
+r: Apple,https://www.reddit.com/r/apple/submit
+r: Askreddit,https://www.reddit.com/r/AskReddit/submit?selftext=true
+r: Books,https://www.reddit.com/r/books/submit
+r: Computer vision,https://www.reddit.com/r/computervision/submit
+r: Cool GitHub projects,https://www.reddit.com/r/coolgithubprojects/submit
+r: DMT,https://www.reddit.com/r/DMT/submit
+r: Docker,https://www.reddit.com/r/docker/submit
+r: Electrical engineering,https://www.reddit.com/r/ECE/submit
+r: Enchancement,https://www.reddit.com/r/Enhancement/submit?selftext=true
+r: Experimental music,https://www.reddit.com/r/experimentalmusic/submit
+r: Front end,https://www.reddit.com/r/Frontend/submit
+r: Future beats,https://www.reddit.com/r/futurebeats/submit
+r: Future pop music,https://www.reddit.com/r/futurepopmusic/submit
+r: Gamedev,https://www.reddit.com/r/gamedev/submit
+r: Get disciplined,https://www.reddit.com/r/getdisciplined/submit?selftext=true
+r: Golang,https://www.reddit.com/r/golang/submit
+r: Haskell,https://www.reddit.com/r/haskell/submit
+r: Health,https://www.reddit.com/r/Health/submit
+r: IOS programming,https://www.reddit.com/r/iOSProgramming/submit
+r: LSD,https://www.reddit.com/r/LSD/submit
+r: Learn javascript,https://www.reddit.com/r/learnjavascript/submit
+r: Learn machine learning,https://www.reddit.com/r/learnmachinelearning/submit
+r: Learn programming,https://www.reddit.com/r/learnprogramming/submit?selftext=true
+r: Linux,https://www.reddit.com/r/linux/submit
+r: Listen to this,https://www.reddit.com/r/listentothis/submit
+r: Mac apps,https://www.reddit.com/r/macapps/submit
+r: MacOS,https://www.reddit.com/r/MacOS/submit
+r: Machine learning,https://www.reddit.com/r/MachineLearning/submit
+r: Math pics,https://www.reddit.com/r/mathpics/submit
+r: Math,https://www.reddit.com/r/math/submit
+r: Meditation,https://www.reddit.com/r/Meditation/submit
+r: Ml questions,https://www.reddit.com/r/MLQuestions/submit
+r: Netsec,https://www.reddit.com/r/netsec/submit
+r: Neural networks,https://www.reddit.com/r/neuralnetworks/submit
+r: Node,https://www.reddit.com/r/node/submit
+r: Nootropics,https://www.reddit.com/r/Nootropics/submit
+r: Osx,https://www.reddit.com/r/osx/submit
+r: Physics,https://www.reddit.com/r/Physics/submit
+r: Privacy,https://www.reddit.com/r/privacy/submit
+r: Probability theory,https://www.reddit.com/r/probabilitytheory/submit
+r: Programmer TIL,https://www.reddit.com/r/ProgrammerTIL/submit?selftext=true
+r: Programming,https://www.reddit.com/r/programming/submit
+r: Psychonaut,https://www.reddit.com/r/Psychonaut/submit
+r: Python,https://www.reddit.com/r/Python/submit
+r: Rails,https://www.reddit.com/r/rails/submit
+r: Rational psychonaut,https://www.reddit.com/r/RationalPsychonaut/submit
+r: ReactJS,https://www.reddit.com/r/reactjs/submit
+r: Reinforcement learning,https://www.reddit.com/r/reinforcementlearning/
+r: Reverse engineering,https://www.reddit.com/r/ReverseEngineering/submit
 r: Simulated reality,https://www.reddit.com/r/AWLIAS/submit
+r: Statistics,https://www.reddit.com/r/statistics/submit
+r: Swift,https://www.reddit.com/r/swift/submit
+r: Sysadmin,https://www.reddit.com/r/sysadmin/submit
+r: Vegan,https://www.reddit.com/r/vegan/submit
+r: Vim magic,https://www.reddit.com/r/vim_magic/submit
+r: Vim,https://www.reddit.com/r/vim/submit
+r: Web design,https://www.reddit.com/r/web_design/submit
+r: Webdev,https://www.reddit.com/r/webdev/submit
+r: iOS,https://www.reddit.com/r/ios/submit
+r: lucid dreaming,https://www.reddit.com/r/LucidDreaming/submit?selftext=true
+s: Academia,https://academia.stackexchange.com/questions/ask
+s: Amateur radio,https://ham.stackexchange.com/questions/ask
+s: Android enthusiasts,https://android.stackexchange.com/questions/ask
+s: Anime & manga,http://anime.stackexchange.com/questions/ask
+s: Arduino,http://arduino.stackexchange.com/questions/ask
+s: Ask different,https://apple.stackexchange.com/questions/ask
+s: Ask patents,https://patents.stackexchange.com/questions/ask
+s: Ask ubuntu,http://askubuntu.com/questions/ask
+s: Astronomy,https://astronomy.stackexchange.com/questions/ask
+s: Aviation,https://aviation.stackexchange.com/questions/ask
+s: Beer wine and & spirits,https://alcohol.stackexchange.com/questions/ask
+s: Biblical hermeneutics,https://hermeneutics.stackexchange.com/questions/ask
+s: Bicycles,https://bicycles.stackexchange.com/questions/ask
+s: Biology,https://biology.stackexchange.com/questions/ask
+s: Bitcoin,https://bitcoin.stackexchange.com/questions/ask
+s: Blender,https://blender.stackexchange.com/questions/ask
+s: Board & card games,https://boardgames.stackexchange.com/questions/ask
+s: Buddhism,https://buddhism.stackexchange.com/questions/ask
+s: Chemistry,https://chemistry.stackexchange.com/questions/ask
+s: Chess,https://chess.stackexchange.com/questions/ask
+s: Chinese,http://chinese.stackexchange.com/questions/ask
+s: Code review,http://codereview.stackexchange.com/questions/ask
+s: Cognitive sciences,https://cogsci.stackexchange.com/questions/ask
+s: Computational science,https://scicomp.stackexchange.com/questions/ask
+s: Computer graphics,http://computergraphics.stackexchange.com/questions/ask
+s: Computer science,https://cs.stackexchange.com/questions/ask
+s: Cross validated,https://stats.stackexchange.com/questions/ask
+s: Cryptography,https://crypto.stackexchange.com/questions/ask
+s: Data science,https://datascience.stackexchange.com/questions/ask
+s: Database administrators,https://dba.stackexchange.com/questions/ask
+s: Drupal,https://drupal.stackexchange.com/questions/ask
+s: Ebooks,https://ebooks.stackexchange.com/questions/ask
+s: Electrical engineering,http://electronics.stackexchange.com/questions/ask?title=
+s: English language & usage,https://english.stackexchange.com/questions/ask
+s: English language learners,https://ell.stackexchange.com/questions/ask
+s: Expatriates,https://expatriates.stackexchange.com/questions/ask
+s: Expression engine,http://expressionengine.stackexchange.com/questions/ask
+s: Freelancing,http://freelancing.stackexchange.com/questions/ask
+s: French language,https://french.stackexchange.com/questions/ask
+s: Gamedev,https://gamedev.stackexchange.com/questions/ask
+s: Gaming,https://gaming.stackexchange.com/questions/ask
+s: Garderning & landscaping,https://gardening.stackexchange.com/questions/ask
+s: Genealogy & family history,https://genealogy.stackexchange.com/questions/ask
+s: Geographic information systems,https://gis.stackexchange.com/questions/ask
+s: German language,https://german.stackexchange.com/questions/ask
+s: Graphic design,https://graphicdesign.stackexchange.com/questions/ask
+s: Great outdoors,https://outdoors.stackexchange.com/questions/ask
+s: History,http://history.stackexchange.com/questions/ask
+s: Home improvement,https://diy.stackexchange.com/questions/ask
+s: Homebrewing,https://homebrew.stackexchange.com/questions/ask
+s: Information security,https://security.stackexchange.com/questions/ask
+s: Islam,https://islam.stackexchange.com/questions/ask
+s: Italian language,https://italian.stackexchange.com/
+s: Japanese language,https://japanese.stackexchange.com/questions/ask
+s: Lego brick,https://bricks.stackexchange.com/questions/ask
+s: Linguistics,https://linguistics.stackexchange.com/questions/ask
+s: Magento,http://magento.stackexchange.com/questions/ask
+s: Martial arts,http://martialarts.stackexchange.com/questions/ask
+s: Math educators,http://matheducators.stackexchange.com/questions/ask
+s: Math overflow,http://mathoverflow.net/questions/ask
+s: Mathematica,http://mathematica.stackexchange.com/questions/ask
+s: Mathematics,http://math.stackexchange.com/questions/ask?title=
+s: Meta,http://meta.stackexchange.com/questions/ask
+s: Motor vehicle maintenance & repair,https://mechanics.stackexchange.com/questions/ask
+s: Movies,http://movies.stackexchange.com/questions/ask
+s: Music,http://music.stackexchange.com/questions/ask
+s: Network engineering,https://networkengineering.stackexchange.com/questions/ask
+s: Open data,https://opendata.stackexchange.com/questions/ask
+s: Parenting,https://parenting.stackexchange.com/questions/ask
+s: Personal finance & money,http://money.stackexchange.com/questions/ask
+s: Personal productivity,https://productivity.stackexchange.com/questions/ask
+s: Pets,https://pets.stackexchange.com/questions/ask
+s: Philosophy,https://philosophy.stackexchange.com/questions/ask
+s: Photography,https://photo.stackexchange.com/questions/ask
+s: Physical fitness,http://fitness.stackexchange.com/questions/ask
+s: Physics,http://physics.stackexchange.com/questions/ask
+s: Poker,https://poker.stackexchange.com/questions/ask
+s: Politics,http://politics.stackexchange.com/questions/ask
+s: Pro webmasters,http://webmasters.stackexchange.com/questions/ask
+s: Programming puzzles & code golf,https://codegolf.stackexchange.com/questions/ask
+s: Project management,https://pm.stackexchange.com/questions/ask
+s: Quantitative finance,https://quant.stackexchange.com/questions/ask
+s: Raspberry pi,http://raspberrypi.stackexchange.com/questions/ask
+s: Reverse engineering,https://reverseengineering.stackexchange.com/questions/ask
+s: Robotics,https://robotics.stackexchange.com/questions/ask
+s: Role playing games,https://rpg.stackexchange.com/questions/ask
+s: Russian language,https://russian.stackexchange.com/questions/ask
+s: Salesforce,https://salesforce.stackexchange.com/questions/ask
+s: Science fiction & fantasy,https://scifi.stackexchange.com/questions/ask
+s: Seasoned advice,https://cooking.stackexchange.com/questions/ask
+s: Server fault,http://serverfault.com/questions/ask?title=
+s: Sharepoint,https://sharepoint.stackexchange.com/questions/ask
+s: Signal processing,https://dsp.stackexchange.com/questions/ask
+s: Skeptics,https://skeptics.stackexchange.com/questions/ask
+s: Software engineering,https://softwareengineering.stackexchange.com/questions/ask
+s: Software quality assurance & testing,https://sqa.stackexchange.com/questions/ask
+s: Software recommendations,https://softwarerecs.stackexchange.com/questions/ask
+s: Sound design,https://sound.stackexchange.com/questions/ask
+s: Space exploration,https://space.stackexchange.com/questions/ask
+s: Spanish language,http://spanish.stackexchange.com/questions/ask
+s: Sports,http://sports.stackexchange.com/questions/ask
+s: Stack apps,https://stackapps.com/questions/ask#
+s: Stack,https://stackoverflow.com/questions/ask/
+s: Super user,http://superuser.com/questions/ask
+s: Sustainable living,https://sustainability.stackexchange.com/questions/ask
+s: Tex,https://tex.stackexchange.com/questions/ask
+s: Theoretical computer science,http://cstheory.stackexchange.com/questions/ask
+s: Tor,http://tor.stackexchange.com/questions/ask
+s: Travel,http://travel.stackexchange.com/questions/ask
+s: Unix & linux,https://unix.stackexchange.com/questions/ask
+s: Unix,https://unix.stackexchange.com/questions/ask
+s: Video production,https://video.stackexchange.com/questions/ask
+s: Web applications,https://webapps.stackexchange.com/questions/ask
+s: Wordpress development,https://wordpress.stackexchange.com/questions/ask
+s: Workplace,https://workplace.stackexchange.com/questions/ask
+s: World building,http://worldbuilding.stackexchange.com/questions/ask
+s: Writers,http://writers.stackexchange.com/questions/ask
+w: Codepen,http://codepen.io/pen/
+w: Goodreads quote ,https://www.goodreads.com/quotes/new
+w: Hacker news,https://news.ycombinator.com/submit
 w: Lobsters,https://lobste.rs/stories/new
+w: Product Hunt,https://www.producthunt.com/posts/new
+w: Telegraph ,http://telegra.ph
+w: Youtube,https://www.youtube.com/upload
