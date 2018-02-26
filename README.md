@@ -1,4 +1,4 @@
-# Alfred Ask Create Share [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# Alfred Ask Create Share [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#readme) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > [Alfred](https://www.alfredapp.com/) workflow for creating various Web Submissions (Stack exchange, Reddit and more)
 
 <img src="https://i.imgur.com/hdh5MOR.gif" width="400" alt="img">
@@ -20,7 +20,7 @@ You can filter submissions by using various prefixes.
 Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
-See [contribution guidelines](CONTRIBUTING.md#contributing).
+See [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
