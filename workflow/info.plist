@@ -179,7 +179,9 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Details on how to effectively use this workflow are found in the GitHub repository attached to this workflow.
+	<string>Details on how to use this workflow are found in the GitHub repo attached to the workflow. 
+
+Double click this workflow in sidebar -&gt; Open website.
 
 Post any issues and feature requests you have there. 💜</string>
 	<key>uidata</key>
@@ -225,8 +227,8 @@ Post any issues and feature requests you have there. 💜</string>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2.6.4</string>
+	<string>2.7</string>
 	<key>webaddress</key>
-	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
+	<string>https://github.com/nikitavoloboev/alfred-ask-create-share#readme</string>
 </dict>
 </plist>
