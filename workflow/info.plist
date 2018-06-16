@@ -116,7 +116,7 @@
 				<key>runningsubtext</key>
 				<string>Loading...</string>
 				<key>script</key>
-				<string>./alfred-ask-create-share search -q "$1"</string>
+				<string>./alfred-ask-create-share "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
