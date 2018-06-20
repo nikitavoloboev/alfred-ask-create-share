@@ -41,12 +41,12 @@ r: Learn programming,https://www.reddit.com/r/learnprogramming/submit?selftext=t
 r: Linux,https://www.reddit.com/r/linux/submit
 r: Listen to this,https://www.reddit.com/r/listentothis/submit
 r: Mac apps,https://www.reddit.com/r/macapps/submit
-r: MacOS,https://www.reddit.com/r/MacOS/submit
+r: macOS,https://www.reddit.com/r/MacOS/submit
 r: Machine learning,https://www.reddit.com/r/MachineLearning/submit
 r: Math pics,https://www.reddit.com/r/mathpics/submit
 r: Math,https://www.reddit.com/r/math/submit
 r: Meditation,https://www.reddit.com/r/Meditation/submit
-r: Ml questions,https://www.reddit.com/r/MLQuestions/submit
+r: ML questions,https://www.reddit.com/r/MLQuestions/submit
 r: Netsec,https://www.reddit.com/r/netsec/submit
 r: Neural networks,https://www.reddit.com/r/neuralnetworks/submit
 r: Node,https://www.reddit.com/r/node/submit
@@ -133,8 +133,8 @@ s: Lego brick,https://bricks.stackexchange.com/questions/ask
 s: Linguistics,https://linguistics.stackexchange.com/questions/ask
 s: Magento,http://magento.stackexchange.com/questions/ask
 s: Martial arts,http://martialarts.stackexchange.com/questions/ask
-s: Math educators,http://matheducators.stackexchange.com/questions/ask
-s: Math overflow,http://mathoverflow.net/questions/ask
+s: Math Educators,http://matheducators.stackexchange.com/questions/ask
+s: Math Overflow,http://mathoverflow.net/questions/ask
 s: Mathematica,http://mathematica.stackexchange.com/questions/ask
 s: Mathematics,http://math.stackexchange.com/questions/ask?title=
 s: Meta,http://meta.stackexchange.com/questions/ask
@@ -193,9 +193,9 @@ s: Workplace,https://workplace.stackexchange.com/questions/ask
 s: World building,http://worldbuilding.stackexchange.com/questions/ask
 s: Writers,http://writers.stackexchange.com/questions/ask
 w: Codepen,http://codepen.io/pen/
-w: Goodreads quote ,https://www.goodreads.com/quotes/new
-w: Hacker news,https://news.ycombinator.com/submit
+w: Goodreads quote,https://www.goodreads.com/quotes/new
+w: Hacker News,https://news.ycombinator.com/submit
 w: Lobsters,https://lobste.rs/stories/new
 w: Product Hunt,https://www.producthunt.com/posts/new
 w: Telegraph ,http://telegra.ph
-w: Youtube,https://www.youtube.com/upload
+w: YouTube,https://www.youtube.com/upload
