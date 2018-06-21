@@ -1,20 +1,19 @@
-d: Google doc,https://docs.google.com/document/create
-d: Google form,https://docs.google.com/forms/create
+d: Google Doc,https://docs.google.com/document/create
+d: Google Form,https://docs.google.com/forms/create
 w: Indie Hackers,https://www.indiehackers.com/forum/post/new
 r: Unix porn,https://www.reddit.com/r/unixporn/submit
 d: Google presentation,https://docs.google.com/presentation/create
-d: Google sheet,https://docs.google.com/spreadsheets/create
+d: Google Sheet,https://docs.google.com/spreadsheets/create
 f: Alfred bug report,https://www.alfredforum.com/forum/6-bug-reports/?do=add
 f: Alfred feature suggestion,https://www.alfredforum.com/forum/5-alfred-feature-suggestions/?do=add
 f: Alfred help/discussion,https://www.alfredforum.com/forum/2-discussion-help/?do=add
 f: Alfred share workflow,https://www.alfredforum.com/forum/3-share-your-workflows/?do=add
 f: Alfred workflow help,https://www.alfredforum.com/forum/13-workflow-help-questions/?do=add
-g: GitHub gist,https://gist.GitHub.com
-g: GitHub repo,https://github.com/new
+g: GitHub Gist,https://gist.GitHub.com
+g: GitHub Repo,https://github.com/new
 r: Alfred,https://www.reddit.com/r/Alfred/submit
 r: Android,https://www.reddit.com/r/Android/submit
 r: Anki,https://www.reddit.com/r/Anki/
-r: Apple,https://www.reddit.com/r/apple/submit
 r: Apple,https://www.reddit.com/r/apple/submit
 r: Askreddit,https://www.reddit.com/r/AskReddit/submit?selftext=true
 r: Books,https://www.reddit.com/r/books/submit
@@ -33,9 +32,9 @@ r: Get disciplined,https://www.reddit.com/r/getdisciplined/submit?selftext=true
 r: Golang,https://www.reddit.com/r/golang/submit
 r: Haskell,https://www.reddit.com/r/haskell/submit
 r: Health,https://www.reddit.com/r/Health/submit
-r: IOS programming,https://www.reddit.com/r/iOSProgramming/submit
+r: iOS programming,https://www.reddit.com/r/iOSProgramming/submit
 r: LSD,https://www.reddit.com/r/LSD/submit
-r: Learn javascript,https://www.reddit.com/r/learnjavascript/submit
+r: Learn JavaScript,https://www.reddit.com/r/learnjavascript/submit
 r: Learn machine learning,https://www.reddit.com/r/learnmachinelearning/submit
 r: Learn programming,https://www.reddit.com/r/learnprogramming/submit?selftext=true
 r: Linux,https://www.reddit.com/r/linux/submit
