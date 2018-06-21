@@ -1,7 +1,7 @@
 # Alfred Ask Create Share [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#readme) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > [Alfred](https://www.alfredapp.com/) workflow for creating web submissions (Stack exchange, Reddit and more)
 
-<img src="https://i.imgur.com/hdh5MOR.gif" width="400" alt="img">
+<img src="https://i.imgur.com/hZe2AUY.png" width="500" alt="img">
 
 You can filter submissions by using various prefixes.
 
@@ -13,8 +13,6 @@ You can filter submissions by using various prefixes.
 | g: |  Currently allows you to quickly create new repository or new gist |
 | w: | All other websites like creating new hacker news thread or new codepen|
 | d: |  Create google docs, sheets, slide or form |
-
-<img src="https://i.imgur.com/hZe2AUY.png" width="500" alt="img">
 
 ## Install
 Download the workflow from [GitHub releases](../../releases/latest).
