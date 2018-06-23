@@ -8,11 +8,11 @@ You can filter submissions by using various prefixes.
 |  Prefix |  Description |
 |---|---|
 | s: |  Filter for asking questions on any one of stack exchange sites |
-| r: | Filter for creating new threads on various reddit subreddits  |
+| r: | Filter for creating new threads on various Reddit subreddits  |
 | f: |  Filter for asking questions on various forums like [Alfred Forum](https://www.alfredforum.com/) |
 | g: |  Currently allows you to quickly create new repository or new gist |
-| w: | All other websites like creating new hacker news thread or new codepen|
-| d: |  Create google docs, sheets, slide or form |
+| w: | All other websites like creating new hacker news thread or new Codepen|
+| d: |  Create Google docs, sheets, slide or form |
 
 ## Install
 Download the workflow from [GitHub releases](../../releases/latest).
