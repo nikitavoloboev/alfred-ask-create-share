@@ -6,7 +6,7 @@ There are many ways you can contribute. You can:
 ## Dependencies
 The workflow is written in [Go](https://golang.org/) and uses [AwGo](https://github.com/deanishe/awgo) library for all Alfred related things.
 
-It also uses [modd](https://github.com/cortesi/modd) and [Alfred command](https://godoc.org/github.com/jason0x43/go-alfred/alfred) to help with development.
+It also uses [modd](https://github.com/cortesi/modd) and [Alfred command](https://godoc.org/github.com/jason0x43/go-alfred/alfred) to help with its development.
 
 ## Developing the workflow
 1. Clone this repo and run: `alfred link` inside it. This will make a symbolic link of the [`workflow`](workflow) directory.
