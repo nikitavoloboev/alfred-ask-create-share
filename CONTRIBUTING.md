@@ -12,6 +12,7 @@ It also uses [modd](https://github.com/cortesi/modd) and [Alfred command](https:
 1. Clone this repo and run: `alfred link` inside it. This will make a symbolic link of the [`workflow`](workflow) directory.
 2. Running `modd` will start a process that will automatically build the workflow with `alfred build` on any changes you make to `.go` files. This builds and places a binary inside [`workflow`](workflow) directory.
 3. Make changes to the code or modify Alfred objects to do what you want! Open debugger in Alfred or run the workflow with `workflow:log` passed in as argument to see the logs Alfred produces.
+
 ![](https://i.imgur.com/rVXRXa1.png)
 
 You can also read [this article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how to write Alfred workflows in Go.
