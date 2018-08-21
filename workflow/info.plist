@@ -81,7 +81,7 @@
 			<key>config</key>
 			<dict>
 				<key>triggerid</key>
-				<string>share</string>
+				<string>search shares</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.external</string>
@@ -227,7 +227,7 @@ Post any issues and feature requests you have there. 💜</string>
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>2.7</string>
+	<string>2.8</string>
 	<key>webaddress</key>
 	<string>https://github.com/nikitavoloboev/alfred-ask-create-share#readme</string>
 </dict>
