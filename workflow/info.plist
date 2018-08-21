@@ -81,7 +81,7 @@
 			<key>config</key>
 			<dict>
 				<key>triggerid</key>
-				<string>ask</string>
+				<string>share</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.external</string>
@@ -104,7 +104,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>ask</string>
+				<string>share</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -124,7 +124,7 @@
 				<key>subtext</key>
 				<string>Make web submissions on the Internet</string>
 				<key>title</key>
-				<string>Ask</string>
+				<string>Share</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
