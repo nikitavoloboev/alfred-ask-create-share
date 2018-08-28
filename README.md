@@ -1,7 +1,7 @@
 # Alfred Ask Create Share [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#readme) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > [Alfred](https://www.alfredapp.com/) workflow for creating web submissions (Stack exchange, Reddit and more)
 
-<img src="https://i.imgur.com/Jnams3a.png" width="500" alt="img">
+<img src="https://i.imgur.com/ZNn8uZj.png" width="500" alt="img">
 
 You can filter submissions by using various prefixes.
 
