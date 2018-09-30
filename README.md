@@ -21,10 +21,14 @@ Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
 
-See [contribution guidelines](CONTRIBUTING.md#readme).
+See [co Thank you
+
+You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
+
+[![MIT](http://bit.ly/mitbadge)](https://tldrlegal.com/license/mit-license) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
 
 ## Thank you
 
 You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-[![MIT](http://bit.ly/mitbadge)](https://tldrlegal.com/license/mit-license) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
