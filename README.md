@@ -21,11 +21,7 @@ Download the workflow from [GitHub releases](../../releases/latest).
 
 ## Contributing
 
-See [co Thank you
-
-You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
-
-[![MIT](http://bit.ly/mitbadge)](https://tldrlegal.com/license/mit-license) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
+See [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## Thank you
 
