@@ -2,7 +2,7 @@
 
 > [Alfred](https://www.alfredapp.com/) workflow for creating web submissions (Stack exchange, Reddit and more)
 
-<img src="https://i.imgur.com/ZNn8uZj.png" width="500" alt="img">
+<img src="https://i.imgur.com/X1Chnrn.png" width="500" alt="img">
 
 You can filter submissions by using various prefixes.
 
