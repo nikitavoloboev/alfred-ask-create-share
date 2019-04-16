@@ -1,9 +1,9 @@
 d: Google Doc,https://docs.google.com/document/create
 r: AskScience,https://www.reddit.com/r/askscience/submit
-w: Google Cloud Project,https://console.cloud.google.com/projectcreate
-w: Apple Product Feedback,https://www.apple.com/feedback/
+Google Cloud Project,https://console.cloud.google.com/projectcreate
+Apple Product Feedback,https://www.apple.com/feedback/
 d: Google Form,https://docs.google.com/forms/create
-w: Indie Hackers,https://www.indiehackers.com/forum/post/new
+Indie Hackers,https://www.indiehackers.com/forum/post/new
 r: Unix porn,https://www.reddit.com/r/unixporn/submit
 d: Google presentation,https://docs.google.com/presentation/create
 d: Google Sheet,https://docs.google.com/spreadsheets/create
@@ -194,10 +194,10 @@ s: Wordpress development,https://wordpress.stackexchange.com/questions/ask
 s: Workplace,https://workplace.stackexchange.com/questions/ask
 s: World building,http://worldbuilding.stackexchange.com/questions/ask
 s: Writers,http://writers.stackexchange.com/questions/ask
-w: Codepen,http://codepen.io/pen/
-w: Goodreads quote,https://www.goodreads.com/quotes/new
-w: Hacker News,https://news.ycombinator.com/submit
-w: Lobsters,https://lobste.rs/stories/new
-w: Product Hunt,https://www.producthunt.com/posts/new
-w: Telegraph ,http://telegra.ph
-w: YouTube,https://www.youtube.com/upload
+Codepen,http://codepen.io/pen/
+Goodreads quote,https://www.goodreads.com/quotes/new
+Hacker News,https://news.ycombinator.com/submit
+Lobsters,https://lobste.rs/stories/new
+Product Hunt,https://www.producthunt.com/posts/new
+Telegraph ,http://telegra.ph
+YouTube,https://www.youtube.com/upload
