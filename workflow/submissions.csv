@@ -1,10 +1,8 @@
 d: Google Doc,https://docs.google.com/document/create
-r: AskScience,https://www.reddit.com/r/askscience/submit
 Google Cloud Project,https://console.cloud.google.com/projectcreate
 Apple Product Feedback,https://www.apple.com/feedback/
 d: Google Form,https://docs.google.com/forms/create
 Indie Hackers,https://www.indiehackers.com/forum/post/new
-r: Unix porn,https://www.reddit.com/r/unixporn/submit
 d: Google presentation,https://docs.google.com/presentation/create
 d: Google Sheet,https://docs.google.com/spreadsheets/create
 f: Alfred bug report,https://www.alfredforum.com/forum/6-bug-reports/?do=add
@@ -14,69 +12,6 @@ f: Alfred share workflow,https://www.alfredforum.com/forum/3-share-your-workflow
 f: Alfred workflow help,https://www.alfredforum.com/forum/13-workflow-help-questions/?do=add
 g: GitHub Gist,https://gist.GitHub.com
 g: GitHub Repo,https://github.com/new
-r: Alfred,https://www.reddit.com/r/Alfred/submit
-r: Android,https://www.reddit.com/r/Android/submit
-r: Anki,https://www.reddit.com/r/Anki/
-r: Apple,https://www.reddit.com/r/apple/submit
-r: Askreddit,https://www.reddit.com/r/AskReddit/submit?selftext=true
-r: Books,https://www.reddit.com/r/books/submit
-r: Computer vision,https://www.reddit.com/r/computervision/submit
-r: Cool GitHub projects,https://www.reddit.com/r/coolgithubprojects/submit
-r: DMT,https://www.reddit.com/r/DMT/submit
-r: Docker,https://www.reddit.com/r/docker/submit
-r: Electrical engineering,https://www.reddit.com/r/ECE/submit
-r: Enchancement,https://www.reddit.com/r/Enhancement/submit?selftext=true
-r: Experimental music,https://www.reddit.com/r/experimentalmusic/submit
-r: Front end,https://www.reddit.com/r/Frontend/submit
-r: Future beats,https://www.reddit.com/r/futurebeats/submit
-r: Future pop music,https://www.reddit.com/r/futurepopmusic/submit
-r: Gamedev,https://www.reddit.com/r/gamedev/submit
-r: Get disciplined,https://www.reddit.com/r/getdisciplined/submit?selftext=true
-r: Golang,https://www.reddit.com/r/golang/submit
-r: Haskell,https://www.reddit.com/r/haskell/submit
-r: Health,https://www.reddit.com/r/Health/submit
-r: iOS programming,https://www.reddit.com/r/iOSProgramming/submit
-r: LSD,https://www.reddit.com/r/LSD/submit
-r: Learn JavaScript,https://www.reddit.com/r/learnjavascript/submit
-r: Learn machine learning,https://www.reddit.com/r/learnmachinelearning/submit
-r: Learn programming,https://www.reddit.com/r/learnprogramming/submit?selftext=true
-r: Linux,https://www.reddit.com/r/linux/submit
-r: Listen to this,https://www.reddit.com/r/listentothis/submit
-r: Mac apps,https://www.reddit.com/r/macapps/submit
-r: macOS,https://www.reddit.com/r/MacOS/submit
-r: Machine learning,https://www.reddit.com/r/MachineLearning/submit
-r: Math pics,https://www.reddit.com/r/mathpics/submit
-r: Math,https://www.reddit.com/r/math/submit
-r: Meditation,https://www.reddit.com/r/Meditation/submit
-r: ML questions,https://www.reddit.com/r/MLQuestions/submit
-r: Netsec,https://www.reddit.com/r/netsec/submit
-r: Neural networks,https://www.reddit.com/r/neuralnetworks/submit
-r: Node,https://www.reddit.com/r/node/submit
-r: Nootropics,https://www.reddit.com/r/Nootropics/submit
-r: Osx,https://www.reddit.com/r/osx/submit
-r: Physics,https://www.reddit.com/r/Physics/submit
-r: Privacy,https://www.reddit.com/r/privacy/submit
-r: Probability theory,https://www.reddit.com/r/probabilitytheory/submit
-r: Programmer TIL,https://www.reddit.com/r/ProgrammerTIL/submit?selftext=true
-r: Programming,https://www.reddit.com/r/programming/submit
-r: Psychonaut,https://www.reddit.com/r/Psychonaut/submit
-r: Python,https://www.reddit.com/r/Python/submit
-r: Rails,https://www.reddit.com/r/rails/submit
-r: Rational psychonaut,https://www.reddit.com/r/RationalPsychonaut/submit
-r: ReactJS,https://www.reddit.com/r/reactjs/submit
-r: Reinforcement learning,https://www.reddit.com/r/reinforcementlearning/
-r: Reverse engineering,https://www.reddit.com/r/ReverseEngineering/submit
-r: Simulated reality,https://www.reddit.com/r/AWLIAS/submit
-r: Statistics,https://www.reddit.com/r/statistics/submit
-r: Swift,https://www.reddit.com/r/swift/submit
-r: Sysadmin,https://www.reddit.com/r/sysadmin/submit
-r: Vegan,https://www.reddit.com/r/vegan/submit
-r: Vim magic,https://www.reddit.com/r/vim_magic/submit
-r: Vim,https://www.reddit.com/r/vim/submit
-r: Web design,https://www.reddit.com/r/web_design/submit
-r: Webdev,https://www.reddit.com/r/webdev/submit
-r: iOS,https://www.reddit.com/r/ios/submit
-r: lucid dreaming,https://www.reddit.com/r/LucidDreaming/submit?selftext=true
 s: Academia,https://academia.stackexchange.com/questions/ask
 s: Amateur radio,https://ham.stackexchange.com/questions/ask
 s: Android enthusiasts,https://android.stackexchange.com/questions/ask
@@ -194,7 +129,7 @@ s: Wordpress development,https://wordpress.stackexchange.com/questions/ask
 s: Workplace,https://workplace.stackexchange.com/questions/ask
 s: World building,http://worldbuilding.stackexchange.com/questions/ask
 s: Writers,http://writers.stackexchange.com/questions/ask
-Codepen,http://codepen.io/pen/
+CodePen,http://codepen.io/pen/
 Goodreads quote,https://www.goodreads.com/quotes/new
 Hacker News,https://news.ycombinator.com/submit
 Lobsters,https://lobste.rs/stories/new
