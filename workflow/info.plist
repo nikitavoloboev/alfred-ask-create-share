@@ -97,6 +97,8 @@
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -135,7 +137,7 @@
 			<key>uid</key>
 			<string>150EEA44-C798-4560-8F1A-0AB3ABA06737</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -229,6 +231,6 @@ Post any issues and feature requests you have there. 💜</string>
 	<key>version</key>
 	<string>2.9</string>
 	<key>webaddress</key>
-	<string>https://github.com/nikitavoloboev/alfred-ask-create-share#readme</string>
+	<string>https://github.com/nikitavoloboev/alfred-ask-create-share</string>
 </dict>
 </plist>
